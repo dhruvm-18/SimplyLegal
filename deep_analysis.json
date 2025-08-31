@@ -1,0 +1,1777 @@
+{
+  "doc_a7caee9e": {
+    "doc_id": "doc_a7caee9e",
+    "deep_analysis": {
+      "key_clauses": [
+        {
+          "title": "Professional Services Agreement Scope",
+          "description": "Defines the specific results and services the CONSULTANT must provide, as detailed in Exhibit A: Scope of Services, which is incorporated by reference.",
+          "importance": "high",
+          "original_text": "A. CONSULTANT agrees to exercise special skill to accomplish the following results in a manner \nreasonably satisfactory to COMMISSION: ______________________________, as specified in Exhibit \nA: Scope of Services, which by this reference is incorporated herein.",
+          "implications": "The CONSULTANT's core deliverables and performance expectations are set by Exhibit A. Failure to meet these may lead to non-payment or termination."
+        },
+        {
+          "title": "Key Personnel Requirement",
+          "description": "Requires the CONSULTANT to provide specific key personnel for the services and prohibits their removal, replacement, or function change without the COMMISSION's prior written consent.",
+          "importance": "high",
+          "original_text": "B. CONSULTANT shall provide the personnel listed below to perform the above-specified services, which \npersons are hereby designated as key personnel under this Agreement.\nC. No person named in paragraph B of this Section, or his or her successor, shall be removed or replaced by \nCONSULTANT, nor shall his or her agreed-upon function hereunder be changed, without the prior \nwritten consent of COMMISSION.  Such consent shall not be unreasonably withheld.",
+          "implications": "Ensures continuity and specific expertise for the project. The COMMISSION has control over the key individuals working on the project, preventing unexpected changes that could impact service quality."
+        },
+        {
+          "title": "Compensation Cap and Fee Structure",
+          "description": "Sets a maximum total payment for the CONSULTANT and specifies that compensation will be based on time and materials at rates and conditions defined in Exhibit B: Fee Schedule.",
+          "importance": "high",
+          "original_text": "A. Total payment is not to exceed $_____for time and materials at the rates and conditions set forth in \nExhibit B: Fee Schedule, which by this reference is incorporated herein.",
+          "implications": "Defines the financial limits and basis for payment, requiring the CONSULTANT to manage costs within the specified cap and adhere to the rates in Exhibit B. Protects the COMMISSION from unlimited expenses."
+        },
+        {
+          "title": "Indemnification for Damages, Taxes and Contributions",
+          "description": "Obligates the CONSULTANT to indemnify, defend, and hold harmless the COMMISSION from claims, losses, and liabilities arising from the CONSULTANT's negligence, recklessness, or willful misconduct, as well as from federal, state, and local taxes/contributions related to the CONSULTANT's personnel.",
+          "importance": "high",
+          "original_text": "CONSULTANT shall exonerate, indemnify, defend, and hold harmless the COMMISSION (which for the \npurpose of this Agreement shall include, without limitation, its officers, agents, employees and volunteers) \nfrom and against:\nA. Any and all claims, demands, losses, damages, defense costs, or liability of any kind or nature which \nCOMMISSION may sustain or incur or which may be imposed upon it for injury to or death of persons, \nor damage to property which arise out of, pertain to, or relate to CONSULTANT’S negligence, \nrecklessness, or willful misconduct under the terms of this Agreement. Such indemnification includes \nany damage to the person(s), or property(ies) of CONSULTANT and third persons.\nB. Any and all Federal, State and Local taxes, charges, fees, or contributions required to be paid with \nrespect to CONSULTANT and CONSULTANT’S officers, employees and agents engaged in the \nperformance of this Agreement (including, without limitation, unemployment insurance, social security \nand payroll tax withholding).",
+          "implications": "Transfers financial risk from the COMMISSION to the CONSULTANT for specific types of damages and all employment-related taxes and contributions. This is a critical risk mitigation clause for the COMMISSION."
+        },
+        {
+          "title": "Insurance Requirements",
+          "description": "Mandates specific types and minimum limits of insurance coverage (Workers’ Compensation, Automobile Liability, Comprehensive/Commercial General Liability, Professional Liability) to be maintained by the CONSULTANT, making it primary coverage over the COMMISSION’s own insurance.",
+          "importance": "high",
+          "original_text": "CONSULTANT, at its sole cost and expense, for the full term of this Agreement, and any \nextensions thereof, shall obtain and maintain at minimum compliance with all of the following insurance \ncoverage(s) and requirements.  Such insurance coverage shall be primary coverage as respects \nCOMMISSION and any insurance or self-insurance maintained by COMMISSION shall be excess of \nCONSULTANT’S insurance coverage and shall not contribute to it.\nIf CONSULTANT utilizes one or more subconsultants in the performance of this Agreement, \nCONSULTANT shall obtain and maintain Independent CONSULTANT’s Insurance as to each subconsultant \nor otherwise provide evidence of insurance coverage from each subconsultant equivalent to that required of \nCONSULTANT in this Agreement.\nA. Types of Insurance and Minimum Limits\n1) Workers’ Compensation in the minimum statutorily required coverage amounts.  This insurance \ncoverage shall not be required if the CONSULTANT has no employees and certifies to this fact by \ninitialing here                .\n2) Automobile Liability Insurance for each of CONSULTANT’S vehicles used in the performance of \nthis Agreement, including owned, non-owned (e.g. owned by CONSULTANT’S employees), leased \nor hired vehicles, in the minimum amount of $1,000,000 combined single limit per occurrence for \nbodily injury and property damage.  This insurance coverage shall not be required if vehicle use by \nthe CONSULTANT is not a material part of performance of this Agreement and CONSULTANT and \nCOMMISSION both certify to this fact by initialing here           /        .\n3) Comprehensive or Commercial General Liability Insurance coverage in the minimum amount of one \nmillion dollars ($1,000,000) combined single limit (CSL), including coverage for: (a) bodily injury, \n(b) personal injury, (c) broad form property damage, (d) contractual liability, and (e) cross-liability.\n4) Professional Liability Insurance in the minimum amount of one million dollars ($1,000,000)               \ncombined single limit, if, and only if, this Subparagraph is initialed by CONSULTANT and \nCOMMISSION __   /        .\nB. Other Insurance Provisions\n1) If any insurance coverage required in this Agreement is provided on a “Claims Made” rather than \n“Occurrence” form, CONSULTANT agrees to maintain the required coverage for a period of three \n(3) years after the expiration of this Agreement (hereinafter “post agreement coverage”) and any \nextensions thereof.  CONSULTANT may maintain the required post agreement coverage by renewal \nor purchase of prior acts or tail coverage.  This provision is contingent upon post agreement coverage \nbeing both available and reasonably affordable in relation to the coverage provided during the term of \nthis Agreement.  For purposes of interpreting this requirement, a cost not exceeding 100% of the last \nannual policy premium during the term of this Agreement in order to purchase prior acts or tail \ncoverage for post agreement coverage shall be deemed to be reasonable. The COMMISSION will not \nbe responsible for any premiums or assessments on the policy.\n2) All required Automobile and Comprehensive or Commercial General Liability Insurance shall be \nendorsed to contain the following clause:\n“Santa Cruz County Regional Transportation Commission, its officials, employees, agents and \nvolunteers are added as an additional insured as respects the operations and activities of, or on behalf \nof, the named insured performed under Agreement with the Commission.”\n3) All required insurance policies shall be endorsed to contain the following clause:\n“This insurance shall not be canceled until after thirty (30) days prior written notice has been given",
+          "implications": "Protects the COMMISSION from potential liabilities arising from the CONSULTANT's operations. Ensures that sufficient financial backing is in place to cover claims and damages, and that the COMMISSION is directly covered as an additional insured."
+        }
+      ],
+      "obligations": [
+        {
+          "party": "CONSULTANT",
+          "obligation": "Exercise special skill to accomplish results specified in Exhibit A: Scope of Services in a manner reasonably satisfactory to COMMISSION.",
+          "deadline": "Not specified",
+          "consequences": "May result in delayed payment, non-payment, or termination of Agreement."
+        },
+        {
+          "party": "CONSULTANT",
+          "obligation": "Provide the personnel listed in Section 1.B as key personnel.",
+          "deadline": "As needed for services",
+          "consequences": "Breach of agreement."
+        },
+        {
+          "party": "CONSULTANT",
+          "obligation": "Obtain prior written consent from COMMISSION before removing, replacing, or changing the function of key personnel.",
+          "deadline": "Prior to change",
+          "consequences": "Breach of agreement."
+        },
+        {
+          "party": "CONSULTANT",
+          "obligation": "Submit written progress reports with each invoice, sufficiently detailed to assess performance, schedule, findings, difficulties, and problems.",
+          "deadline": "With each invoice",
+          "consequences": "May result in delayed payment."
+        },
+        {
+          "party": "CONSULTANT's Project Manager",
+          "obligation": "Meet with the COMMISSION’s Contract Manager as needed to discuss progress.",
+          "deadline": "As needed",
+          "consequences": "Not specified, but likely impacts project progress and payment."
+        },
+        {
+          "party": "COMMISSION",
+          "obligation": "Pay CONSULTANT for services as set forth in Exhibit B: Fee Schedule, not to exceed total payment cap.",
+          "deadline": "No less than monthly in arrears, upon approval and after invoice receipt.",
+          "consequences": "Breach of contract by COMMISSION."
+        },
+        {
+          "party": "CONSULTANT",
+          "obligation": "Not exceed milestone cost estimates in Exhibit B, unless with prior written approval from the Contract Manager.",
+          "deadline": "Prior to exceeding estimates",
+          "consequences": "Costs may not be reimbursed without approval."
+        },
+        {
+          "party": "CONSULTANT",
+          "obligation": "Submit itemized invoices to COMMISSION’s Contract Manager.",
+          "deadline": "No later than 45 calendar days after the performance of work.",
+          "consequences": "May delay reimbursement or result in non-payment."
+        },
+        {
+          "party": "CONSULTANT",
+          "obligation": "Include specific information in invoices: Labor (staff name, hours, hourly rate, current/cumulative charges), itemized expenses, total requested, total previously paid, report of expenditures by task/subtask/milestone, estimated percentage completion, written progress reports, and other information as requested.",
+          "deadline": "With each invoice",
+          "consequences": "May delay reimbursement or result in non-payment."
+        },
+        {
+          "party": "CONSULTANT",
+          "obligation": "Submit final invoice within 60 calendar days after acceptance of work by the Contract Manager.",
+          "deadline": "60 calendar days after acceptance of work",
+          "consequences": "May result in non-payment for final work."
+        },
+        {
+          "party": "CONSULTANT",
+          "obligation": "Commence work after notification to proceed by the COMMISSION’s Contract Manager.",
+          "deadline": "After notification to proceed",
+          "consequences": "Breach of contract."
+        },
+        {
+          "party": "CONSULTANT",
+          "obligation": "Exonerate, indemnify, defend, and hold harmless the COMMISSION from claims and liabilities as specified in Section 5.",
+          "deadline": "Upon occurrence of event",
+          "consequences": "Financial liability for CONSULTANT."
+        },
+        {
+          "party": "CONSULTANT",
+          "obligation": "Obtain and maintain specified insurance coverage(s) at its sole cost and expense for the full term and any extensions of the Agreement.",
+          "deadline": "For the full term of the Agreement and any extensions",
+          "consequences": "Breach of contract, potential liability for COMMISSION."
+        },
+        {
+          "party": "CONSULTANT",
+          "obligation": "If utilizing subconsultants, obtain and maintain Independent CONSULTANT’s Insurance for each subconsultant or provide evidence of equivalent insurance.",
+          "deadline": "While subconsultants are performing work",
+          "consequences": "Breach of contract, potential liability for COMMISSION."
+        },
+        {
+          "party": "CONSULTANT",
+          "obligation": "If insurance is 'Claims Made,' maintain coverage for three (3) years after Agreement expiration.",
+          "deadline": "3 years after Agreement expiration",
+          "consequences": "Breach of contract, potential future liability for CONSULTANT."
+        },
+        {
+          "party": "CONSULTANT",
+          "obligation": "Endorse all required Automobile and Comprehensive or Commercial General Liability Insurance policies to add COMMISSION as an additional insured.",
+          "deadline": "Upon obtaining coverage",
+          "consequences": "Reduced protection for COMMISSION."
+        },
+        {
+          "party": "CONSULTANT",
+          "obligation": "Endorse all required insurance policies to contain a clause requiring thirty (30) days prior written notice before cancellation.",
+          "deadline": "Upon obtaining coverage",
+          "consequences": "Reduced notification for COMMISSION in case of cancellation."
+        }
+      ],
+      "rights": [
+        {
+          "party": "COMMISSION",
+          "right": "Delay payment if CONSULTANT fails to submit required deliverable items according to schedule.",
+          "conditions": "CONSULTANT's failure to submit deliverables on schedule.",
+          "limitations": "Not specified."
+        },
+        {
+          "party": "COMMISSION",
+          "right": "Terminate this Agreement for its convenience, in whole or part.",
+          "conditions": "By giving CONSULTANT thirty-day (30-day) written notice.",
+          "limitations": "Must pay allowable costs incurred to date and reasonable termination costs."
+        },
+        {
+          "party": "COMMISSION",
+          "right": "Terminate this Agreement for CONSULTANT's default.",
+          "conditions": "Federal or state proceeding for relief of debtors, assignment for benefit of creditors, or breach of terms uncured within ten (10) days after written notice.",
+          "limitations": "Must provide 10-day cure period for breach."
+        },
+        {
+          "party": "COMMISSION",
+          "right": "Approve reimbursable expenses.",
+          "conditions": "Expenses are billed by CONSULTANT.",
+          "limitations": "Not specified."
+        },
+        {
+          "party": "COMMISSION",
+          "right": "Approve any work before payment is made.",
+          "conditions": "Work has been performed.",
+          "limitations": "Not specified."
+        },
+        {
+          "party": "COMMISSION",
+          "right": "Request additional information for invoices beyond the specified requirements.",
+          "conditions": "Not specified.",
+          "limitations": "Not specified."
+        },
+        {
+          "party": "COMMISSION",
+          "right": "Withhold consent for key personnel changes only if reasonable to do so.",
+          "conditions": "CONSULTANT requests to remove, replace, or change function of key personnel.",
+          "limitations": "Consent shall not be unreasonably withheld."
+        },
+        {
+          "party": "CONSULTANT",
+          "right": "Terminate this Agreement.",
+          "conditions": "Giving the COMMISSION at least one hundred and twenty (120) days advance written notice.",
+          "limitations": "CONSULTANT shall be liable for any and all reasonable costs incurred by COMMISSION as a result of such default/termination, including reprocurement costs."
+        }
+      ],
+      "financial_terms": [
+        {
+          "type": "Total Payment",
+          "amount": "Not to exceed $_____",
+          "frequency": "One-time cap",
+          "conditions": "For time and materials at rates and conditions set forth in Exhibit B: Fee Schedule."
+        },
+        {
+          "type": "Overhead Reimbursement",
+          "amount": "Not to exceed the overhead rate set forth in the Fee Schedule.",
+          "frequency": "As incurred",
+          "conditions": "Reimbursement for overhead costs."
+        },
+        {
+          "type": "Transportation and Subsistence Costs Reimbursement",
+          "amount": "Not to exceed the rates authorized to employees under current U.S. General Service Administration rules.",
+          "frequency": "As incurred",
+          "conditions": "For transportation and subsistence costs."
+        },
+        {
+          "type": "Reimbursable Expenses",
+          "amount": "Not specified (based on actual costs)",
+          "frequency": "As billed",
+          "conditions": "Upon approval of the Contract Manager."
+        },
+        {
+          "type": "Progress Payments",
+          "amount": "Based on satisfactory services provided and actual allowable incurred costs. Pro rata portion of fixed fee (if applicable).",
+          "frequency": "No less than monthly in arrears",
+          "conditions": "Satisfactory services and allowable incurred costs. Deliverables submitted according to schedule."
+        },
+        {
+          "type": "Milestone Cost Estimates",
+          "amount": "As shown in Exhibit B",
+          "frequency": "Per milestone",
+          "conditions": "Not to be exceeded without prior written approval of the Contract Manager."
+        },
+        {
+          "type": "Invoice Submission",
+          "amount": "Not applicable (process)",
+          "frequency": "After performance of work",
+          "conditions": "Reimbursement after receipt by the COMMISSION’s Contract Manager of itemized invoices."
+        },
+        {
+          "type": "Prevailing Wage Rate Increases",
+          "amount": "All salary increases which are the direct result of changes in the prevailing wage rates.",
+          "frequency": "As they occur",
+          "conditions": "For personnel subject to prevailing wage rates as described in the California Labor Code."
+        }
+      ],
+      "timeline": [
+        {
+          "event": "Agreement takes effect",
+          "date": "(DATE)",
+          "importance": "high",
+          "consequences": "Contingent upon prior approval by the COMMISSION governing board. Agreement is not binding until fully executed and approved by the COMMISSION's board."
+        },
+        {
+          "event": "CONSULTANT commences work",
+          "date": "After notification to proceed by the COMMISSION’S Contract Manager",
+          "importance": "high",
+          "consequences": "No payment will be made for any work performed prior to approval of this Agreement or notification to proceed."
+        },
+        {
+          "event": "Agreement ends",
+          "date": "(DATE)",
+          "importance": "high",
+          "consequences": "Unless earlier terminated or extended by contract amendment."
+        },
+        {
+          "event": "CONSULTANT submits invoices",
+          "date": "No later than 45 calendar days after the performance of work",
+          "importance": "high",
+          "consequences": "Late submission may delay payment."
+        },
+        {
+          "event": "CONSULTANT submits final invoice",
+          "date": "Within 60 calendar days after acceptance of the CONSULTANT’s work by the Contract Manager",
+          "importance": "high",
+          "consequences": "Not specified, but implies non-payment if deadline is missed."
+        },
+        {
+          "event": "COMMISSION provides notice for convenience termination",
+          "date": "Thirty-day (30-day) written notice",
+          "importance": "high",
+          "consequences": "Agreement terminates, COMMISSION pays allowable costs."
+        },
+        {
+          "event": "Cure period for CONSULTANT's default",
+          "date": "Ten (10) days after written notice thereof by COMMISSION",
+          "importance": "high",
+          "consequences": "If not cured, COMMISSION may terminate, and CONSULTANT is liable for reprocurement costs."
+        },
+        {
+          "event": "CONSULTANT provides notice for termination",
+          "date": "At least one hundred and twenty (120) days advance written notice",
+          "importance": "high",
+          "consequences": "CONSULTANT liable for reprocurement costs."
+        },
+        {
+          "event": "Post-agreement insurance coverage (Claims Made)",
+          "date": "A period of three (3) years after the expiration of this Agreement and any extensions thereof",
+          "importance": "high",
+          "consequences": "Breach of contract if not maintained."
+        },
+        {
+          "event": "Insurance policy cancellation notice to COMMISSION",
+          "date": "Thirty (30) days prior written notice",
+          "importance": "high",
+          "consequences": "Not specified for violation, but provides COMMISSION time to react to cancellation."
+        }
+      ],
+      "termination_conditions": [
+        {
+          "condition": "COMMISSION's convenience",
+          "notice_required": "Thirty-day (30-day) written notice",
+          "who_can_terminate": "COMMISSION",
+          "consequences": "COMMISSION pays CONSULTANT's allowable costs incurred to date of termination and reasonable costs to effect termination. CONSULTANT has no further claims."
+        },
+        {
+          "condition": "CONSULTANT's default (federal or state proceeding for relief of debtors)",
+          "notice_required": "Not specified for this specific condition; implied immediate for insolvency.",
+          "who_can_terminate": "COMMISSION",
+          "consequences": "CONSULTANT shall be liable for any and all reasonable costs incurred by COMMISSION as a result of such default, including reprocurement costs."
+        },
+        {
+          "condition": "CONSULTANT's default (assignment for the benefit of creditors)",
+          "notice_required": "Not specified for this specific condition; implied immediate for insolvency.",
+          "who_can_terminate": "COMMISSION",
+          "consequences": "CONSULTANT shall be liable for any and all reasonable costs incurred by COMMISSION as a result of such default, including reprocurement costs."
+        },
+        {
+          "condition": "CONSULTANT's default (breach of terms or violation of provisions)",
+          "notice_required": "Ten (10) days after written notice from COMMISSION for cure",
+          "who_can_terminate": "COMMISSION",
+          "consequences": "If not cured, CONSULTANT shall be liable for any and all reasonable costs incurred by COMMISSION as a result of such default, including reprocurement costs."
+        },
+        {
+          "condition": "CONSULTANT chooses to terminate",
+          "notice_required": "At least one hundred and twenty (120) days advance written notice",
+          "who_can_terminate": "CONSULTANT",
+          "consequences": "CONSULTANT shall be liable for any and all reasonable costs incurred by COMMISSION as a result of such default, including reprocurement costs of the same or similar services defaulted or not provided."
+        },
+        {
+          "condition": "CONSULTANT fails to submit required deliverable items according to the schedule set forth in the Scope of Services",
+          "notice_required": "Not explicitly stated for termination under this clause, but refers to Section 4.",
+          "who_can_terminate": "COMMISSION",
+          "consequences": "COMMISSION may delay payment and/or terminate this Agreement."
+        }
+      ],
+      "dispute_resolution": [],
+      "penalties": [
+        {
+          "violation": "CONSULTANT's default (federal/state proceeding for relief of debtors, assignment for benefit of creditors, or uncured breach)",
+          "penalty": "CONSULTANT shall be liable for any and all reasonable costs incurred by COMMISSION as a result of such default, including but not limited to reprocurement costs of the same or similar services defaulted by CONSULTANT under this Agreement.",
+          "who_pays": "CONSULTANT",
+          "enforcement": "Through the terms of this Agreement."
+        },
+        {
+          "violation": "CONSULTANT terminates the Agreement with notice",
+          "penalty": "CONSULTANT shall be liable for any and all reasonable costs incurred by COMMISSION as a result of such default, including but not limited to reprocurement costs of the same or similar services defaulted or not provided by CONSULTANT under this Agreement.",
+          "who_pays": "CONSULTANT",
+          "enforcement": "Through the terms of this Agreement."
+        }
+      ],
+      "compliance_requirements": [
+        {
+          "requirement": "CONSULTANT to meet professional standards: 'exercise special skill' and perform 'in a manner reasonably satisfactory to COMMISSION'.",
+          "deadline": "Throughout performance",
+          "responsible_party": "CONSULTANT",
+          "verification": "COMMISSION's Contract Manager assessment."
+        },
+        {
+          "requirement": "CONSULTANT to provide specific key personnel and maintain their roles.",
+          "deadline": "Throughout term",
+          "responsible_party": "CONSULTANT",
+          "verification": "COMMISSION's consent for changes."
+        },
+        {
+          "requirement": "CONSULTANT to comply with overhead rate and transportation/subsistence cost limits.",
+          "deadline": "Ongoing",
+          "responsible_party": "CONSULTANT",
+          "verification": "Invoice review by Contract Manager against Fee Schedule and GSA rules."
+        },
+        {
+          "requirement": "Agreement must be fully executed and approved by the COMMISSION's board to be binding and enforceable.",
+          "deadline": "Prior to work commencement",
+          "responsible_party": "COMMISSION",
+          "verification": "COMMISSION board records."
+        },
+        {
+          "requirement": "CONSULTANT to obtain and maintain specific insurance coverages (Workers’ Comp, Auto Liability, Commercial General Liability, Professional Liability) at minimum limits.",
+          "deadline": "Full term of Agreement and any extensions",
+          "responsible_party": "CONSULTANT",
+          "verification": "Not explicitly stated, typically certificate of insurance (COI)."
+        },
+        {
+          "requirement": "CONSULTANT to ensure subconsultants also meet insurance requirements.",
+          "deadline": "While subconsultants are engaged",
+          "responsible_party": "CONSULTANT",
+          "verification": "Evidence of insurance coverage from each subconsultant."
+        },
+        {
+          "requirement": "CONSULTANT to endorse policies to add COMMISSION as additional insured and include 30-day cancellation notice.",
+          "deadline": "Upon obtaining coverage",
+          "responsible_party": "CONSULTANT",
+          "verification": "Review of insurance policy endorsements."
+        }
+      ],
+      "confidentiality": [],
+      "intellectual_property": []
+    },
+    "created_at": "2025-08-14T09:00:05.170612",
+    "ai_generated": true,
+    "model_used": "gemini-2.5-flash"
+  },
+  "doc_aacce682": {
+    "doc_id": "doc_aacce682",
+    "deep_analysis": {
+      "key_clauses": [
+        {
+          "title": "DESIGNATION",
+          "description": "This clause appoints the employee to a specific role within the Company and states that their tenure will be subject to the terms and conditions of this agreement.",
+          "importance": "high",
+          "original_text": "The Employee is hereby appointed and shall hold office as ___________ of the Company on the terms and conditions contained hereunder.",
+          "implications": "Establishes the employee's formal position and confirms that the entire agreement governs their employment."
+        },
+        {
+          "title": "PROBATIONARY PERIOD",
+          "description": "Defines an initial evaluation period during which the company assesses the employee's suitability. It allows for termination without cause, potential extension of probation, and outlines eligibility for benefits upon satisfactory completion.",
+          "importance": "high",
+          "original_text": "The probationary period will be of ___________ and the company will evaluate the new hire’s qualifications, skills and \"fit\" within our Company. The given time frame does not constitute an obligation on the part of the Company to retain the employee until the end of the probationary period. This period involves special orientation activities plus closer and more frequent performance evaluations than that given to regular employees. During this time or at any time of employment, the Company may terminate the working relationship without cause with advance notice, except as prescribed by law.",
+          "implications": "Provides the Company with significant flexibility to terminate employment early without extensive reason. It also delays full benefit eligibility until probation is successfully completed."
+        },
+        {
+          "title": "PLACE OF WORK",
+          "description": "Specifies the initial work location but grants the Company the right to transfer the employee to other branches or sister concerns, both within and outside India.",
+          "importance": "medium",
+          "original_text": "The Employee will be stationed in the Employer’s offices currently located in _________, but the Company shall be entitled to transfer the Employee’s services to any of the branches, sister concerns, which are presently operating or that which may be set up in future, in India or outside India.",
+          "implications": "The employee's work location is not fixed and can be changed at the Company's discretion, requiring employee flexibility."
+        },
+        {
+          "title": "DUTIES AND POWERS",
+          "description": "Outlines the employee's obligations to dedicate full time, follow instructions, adhere to company policies and laws, maintain dignity, and prohibits engaging in external activities or unauthorized commitments on behalf of the company. It also includes the arbitration clause.",
+          "importance": "high",
+          "original_text": "The Employee shall devote his / her efforts and his / her full business time and attention to the performance of such duties and responsibilities as may be assigned to him/her from time to time by the Director of the Company and in this regard follow all instructions issued or given by the Director of the Company or by a Manager immediately Senior to the Employee or by the Board of Directors of the Company.",
+          "implications": "Establishes a clear framework for the employee's responsibilities, reporting lines, and professional conduct, limiting their autonomy outside assigned duties and setting strict boundaries on company representation."
+        },
+        {
+          "title": "ANNUAL BASE SALARY",
+          "description": "Defines how the employee's salary (CTC) will be paid and states that salary entitlement is conditional upon meeting objectives or targets set by the company.",
+          "importance": "high",
+          "original_text": "The Employee, who is entitled to a salary, will be CTC (as given in salary structure) in accordance with the Company’s customary payroll practices. The Employee shall not entitle to get salary, if he/she fails to meet the objectives or targets laid down by the company.",
+          "implications": "Employee's salary payment is directly tied to performance and meeting company-set goals, allowing the company to withhold salary for underperformance."
+        },
+        {
+          "title": "CONFIDENTIALITY",
+          "description": "Prohibits the employee from disclosing or using confidential company information, trade secrets, client data, and specifies that intellectual property created during employment belongs exclusively to the company, including source code.",
+          "importance": "high",
+          "original_text": "The Employee shall not, directly or indirectly, either during the term of the Employee’s employment under this Employment Agreement or thereafter, disclose to anyone (except in the regular course of the Company’s business or as required by law), or use in any manner, any information acquired by the Employee during his/her employment by the Company with respect to any trade secrets, clients, customers or other confidential information of the Company, its subsidiaries and associate companies world wide, their operations or affairs unless such information has become public knowledge other than by reason of actions (direct or indirect) of the Employee.",
+          "implications": "Protects the Company's proprietary information and intellectual assets indefinitely, giving the company recourse for breaches, even after employment ends."
+        },
+        {
+          "title": "NON-COMPETE CLAUSE",
+          "description": "Restricts the employee from opening a similar company or contacting company clients for a specified period after employment, and prohibits personal work during employment.",
+          "importance": "high",
+          "original_text": "That the employee after the period of employment is over, shall not open similar nature company upto three years directly or indirectly. If the company finds that the employee is contravening this term directly or indirectly, then the company shall be entitled to claim damages under section 73, 74 of the contract act as well as entitled to initiate appropriate legal proceeding against the employee.",
+          "implications": "Significantly limits the employee's ability to compete with the Company post-employment and protects the Company's client base and business model. Violations carry financial and legal penalties."
+        },
+        {
+          "title": "TERM OF CONTRACT, TERMINATION OF EMPLOYMENT AND SEVERANCE PAY",
+          "description": "Outlines the general term of the agreement, conditions for termination by both parties, notice requirements, and specific penalties for the employee's early termination.",
+          "importance": "high",
+          "original_text": "This Employment Agreement shall continue until terminated by either Party as provided herein and supersedes any and all prior oral or written agreements pertaining to the duration, compensation and conditions of employment of the Employee.",
+          "implications": "Defines the procedures and financial consequences for ending the employment relationship, including a substantial penalty for the employee if they leave within two years."
+        },
+        {
+          "title": "ARBITRATION CLAUSE",
+          "description": "Mandates that any disputes related to the agreement will be resolved through a specific arbitration process.",
+          "importance": "high",
+          "original_text": "It is hereby agreed by and between the Company and the Employee hereto that in case any claim, dispute or difference arises between the Parties with regard to the terms and conditions of this Employment Agreement or relating to the interpretation hereof whether during the subsistence of this Employment Agreement or thereafter, the same shall be referred to the sole arbitration of a single arbitrator, Mr. __________, in accordance with the provisions of the Arbitration and Conciliation Act, 1996 or any statutory modification or re-enactment thereof for the time being in force. The arbitration shall be held in Jaipur and the proceedings shall be conducted in the Hindi language. The Parties hereby agree that the arbitral award shall be final, binding and conclusive on the Parties to this Employment Agreement.",
+          "implications": "Removes the option of court litigation for disputes arising from the agreement, channeling all conflicts to a private arbitration process, with a binding award."
+        }
+      ],
+      "obligations": [
+        {
+          "party": "Employee",
+          "obligation": "Hold office as appointed.",
+          "deadline": "During employment.",
+          "consequences": "Not specified"
+        },
+        {
+          "party": "Employee",
+          "obligation": "Devote efforts, full business time and attention to assigned duties.",
+          "deadline": "During employment.",
+          "consequences": "Not specified, but could lead to termination for non-performance."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Follow all instructions issued by Director, Senior Manager, or Board of Directors.",
+          "deadline": "During employment.",
+          "consequences": "Not specified, but could lead to termination for insubordination."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Maintain proper dignity of the company’s office and deal with matters with sobriety.",
+          "deadline": "During employment.",
+          "consequences": "Not specified."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Adhere to all applicable laws and regulations.",
+          "deadline": "During performance of duties.",
+          "consequences": "Not specified, but company not responsible for employee's legal offenses."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Follow the Company’s policies and instructions.",
+          "deadline": "During performance of duties.",
+          "consequences": "Not specified."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Perform duties faithfully, diligently and competently.",
+          "deadline": "During employment.",
+          "consequences": "Not meeting performance criteria can lead to termination without severance pay."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Directly report to the immediate Head or Senior in hierarchy.",
+          "deadline": "During employment.",
+          "consequences": "Not specified."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Not engage in activities outside the scope of employment without prior written consent of the Board of Directors.",
+          "deadline": "During employment.",
+          "consequences": "Not specified, but could be ground for termination."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Not sign on any documents or commit on behalf of the company without mutual consent in writing.",
+          "deadline": "During employment period.",
+          "consequences": "Company shall not be responsible for any liability arising."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Meet the objectives or targets laid down by the company.",
+          "deadline": "Not specified.",
+          "consequences": "Shall not be entitled to get salary."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Not disclose or use any trade secrets, clients, customers, or other confidential information of the Company (except in regular course of business or as required by law).",
+          "deadline": "During and after employment.",
+          "consequences": "Company entitled to claim damages under section 73, 74 of the contract act and initiate legal proceedings."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Maintain confidential the corporate secrets and all other information of a confidential nature.",
+          "deadline": "During and after employment.",
+          "consequences": "Company entitled to claim damages under section 73, 74 of the contract act and initiate legal proceedings."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Use confidential information only during employment and in the interest of the Company.",
+          "deadline": "During employment.",
+          "consequences": "Not specified."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Carefully and diligently safeguard and promote the Company’s interests.",
+          "deadline": "At all times.",
+          "consequences": "Not specified."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Not use the source code of the company directly or indirectly.",
+          "deadline": "During and after employment.",
+          "consequences": "Company entitled to claim damages under section 73, 74 of the contract act and initiate legal proceedings."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Not divulge or appropriate to own use or to the use of others, in competition with the company, any secret or confidential information or knowledge pertaining to the business of the company.",
+          "deadline": "During and after employment.",
+          "consequences": "Not specified, but subject to general confidentiality breach consequences."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Maintain proper dignity as well as decorum of company’s office.",
+          "deadline": "During employment.",
+          "consequences": "Not specified."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Maintain and keep in safe custody identity card, documents, files, books, mobile, laptop, papers etc. issued.",
+          "deadline": "During employment.",
+          "consequences": "Not specified."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Return all business documentation, software, notes etc. and copies thereof pertaining to the Company upon termination or request.",
+          "deadline": "Upon termination of employment or at any time at the request of the Company.",
+          "consequences": "Not specified."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Not open similar nature company directly or indirectly.",
+          "deadline": "Upto three years after the period of employment is over.",
+          "consequences": "Company entitled to claim damages under section 73, 74 of the contract act and initiate legal proceeding."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Not try to connect with the client or the customer of the company directly or indirectly.",
+          "deadline": "During the employment period as well as after the employment period is over.",
+          "consequences": "Company entitled to claim damages under section 73, 74 of the contract act and initiate legal proceeding."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Not do any personal work or for any third party.",
+          "deadline": "During the course of employment.",
+          "consequences": "Will become a ground for termination and compensation clause will apply."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Pay penalty equal to Rs. 2 lakhs.",
+          "deadline": "If employee leaves company or terminates employment before completion of two years.",
+          "consequences": "Company will claim the penalty."
+        },
+        {
+          "party": "Company",
+          "obligation": "Evaluate new hire's qualifications, skills and 'fit' within the Company.",
+          "deadline": "During probationary period.",
+          "consequences": "Not specified."
+        },
+        {
+          "party": "Company",
+          "obligation": "Pay CTC (as given in salary structure) in accordance with customary payroll practices.",
+          "deadline": "Not specified.",
+          "consequences": "Not specified, implied breach of contract if not paid."
+        }
+      ],
+      "rights": [
+        {
+          "party": "Employer",
+          "right": "Evaluate new hire's qualifications, skills and 'fit'.",
+          "conditions": "During probationary period.",
+          "limitations": "Not specified."
+        },
+        {
+          "party": "Employer",
+          "right": "Extend the length of the probation.",
+          "conditions": "If employee has not been available to work the full probationary period or work performance has not met expectations.",
+          "limitations": "At its sole discretion."
+        },
+        {
+          "party": "Employer",
+          "right": "Terminate the working relationship without cause.",
+          "conditions": "During probationary period or at any time of employment.",
+          "limitations": "With advance notice, except as prescribed by law."
+        },
+        {
+          "party": "Employer",
+          "right": "Transfer the Employee’s services to any of its branches, sister concerns, in India or outside India.",
+          "conditions": "Presently operating or that which may be set up in future.",
+          "limitations": "Not specified."
+        },
+        {
+          "party": "Employer",
+          "right": "Modify the Agreement or Rules and Regulations.",
+          "conditions": "From time to time.",
+          "limitations": "Modification will be applicable from the same day."
+        },
+        {
+          "party": "Employer",
+          "right": "Claim damages under section 73, 74 of the contract act and initiate legal proceeding against the employee.",
+          "conditions": "If the employee is contravening confidentiality terms (e.g., using source code) or non-compete terms (similar company, client contact).",
+          "limitations": "Not specified."
+        },
+        {
+          "party": "Employer",
+          "right": "Terminate the employee any time with immediate effect.",
+          "conditions": "Not specified, but usually implies certain grounds.",
+          "limitations": "Without giving any Notice Period."
+        },
+        {
+          "party": "Employer",
+          "right": "Not be responsible for liability.",
+          "conditions": "If the employee signs on any documents or commits on behalf of the company without mutual consent.",
+          "limitations": "In any circumstances."
+        },
+        {
+          "party": "Employer",
+          "right": "Not be responsible for employee's offence punishable under Indian Law.",
+          "conditions": "If committed even outside the company or with the customer outside the course of employment.",
+          "limitations": "In any circumstances."
+        },
+        {
+          "party": "Employer",
+          "right": "Not make severance pay.",
+          "conditions": "If the Company has terminated the Employee’s employment due to his/her breach of Agreement or if he/she do not meet the performance criteria prescribed by the Company.",
+          "limitations": "As mentioned above (Section 8.4)."
+        },
+        {
+          "party": "Employee",
+          "right": "Achieve a regular or part-time employee status.",
+          "conditions": "Upon satisfactory completion of the probationary period.",
+          "limitations": "Not specified."
+        },
+        {
+          "party": "Employee",
+          "right": "Be eligible for most company benefits.",
+          "conditions": "Upon satisfactory completion of the probationary period.",
+          "limitations": "Exceptions would be benefits that have a specific waiting period."
+        },
+        {
+          "party": "Employee",
+          "right": "Lawfully terminate this Employment Agreement.",
+          "conditions": "By giving to the Employer not less than notice in writing.",
+          "limitations": "Shall not be entitled to get the salary of the notice period; liable to pay penalty of Rs. 2 lakhs on break of bond of two years."
+        },
+        {
+          "party": "Employee",
+          "right": "Be entitled to a salary (CTC as given in salary structure).",
+          "conditions": "If he/she meets the objectives or targets laid down by the company.",
+          "limitations": "Not entitled to salary if objectives/targets are not met."
+        }
+      ],
+      "financial_terms": [
+        {
+          "type": "Salary",
+          "amount": "CTC (as given in salary structure)",
+          "frequency": "In accordance with the Company’s customary payroll practices.",
+          "conditions": "Employee must meet the objectives or targets laid down by the company."
+        },
+        {
+          "type": "Penalty",
+          "amount": "Rs. 2 lakhs",
+          "frequency": "One-time",
+          "conditions": "Employee leaves the company or terminates his/her employment before completion of two years (break of bond)."
+        },
+        {
+          "type": "Salary Deduction",
+          "amount": "Not entitled to get the salary of the notice period.",
+          "frequency": "One-time, for the notice period.",
+          "conditions": "Employee terminates this Employment Agreement by giving notice."
+        },
+        {
+          "type": "Damages",
+          "amount": "Under section 73, 74 of the contract act",
+          "frequency": "As applicable per violation.",
+          "conditions": "If employee contravenes confidentiality term (source code use) or non-compete term (similar company, client contact)."
+        },
+        {
+          "type": "Compensation",
+          "amount": "Not specified (clause will apply)",
+          "frequency": "As applicable per violation.",
+          "conditions": "Employee does any personal work or for any third party during employment."
+        }
+      ],
+      "timeline": [
+        {
+          "event": "Probationary Period",
+          "date": "___________ (placeholder in document)",
+          "importance": "high",
+          "consequences": "Company evaluates, may extend probation, or terminate; employee achieves regular status if satisfactory."
+        },
+        {
+          "event": "Agreement Renewal/Revival",
+          "date": "Post completion of Two-Year period",
+          "importance": "low",
+          "consequences": "The agreement shall revive and apply again from time to time."
+        },
+        {
+          "event": "Employee Bond Period",
+          "date": "Two years (from start of employment)",
+          "importance": "high",
+          "consequences": "If employee leaves before completion, liable to pay penalty equal to Rs. 2 lakhs."
+        },
+        {
+          "event": "Non-Compete Period (Similar Company)",
+          "date": "Upto three years after the period of employment is over",
+          "importance": "high",
+          "consequences": "Company entitled to claim damages and initiate legal proceeding if violated."
+        },
+        {
+          "event": "Non-Compete Period (Client Contact)",
+          "date": "During the employment period as well as after the employment period is over",
+          "importance": "high",
+          "consequences": "Company entitled to claim damages and initiate legal proceeding if violated."
+        }
+      ],
+      "termination_conditions": [
+        {
+          "condition": "Either Party terminates as provided herein.",
+          "notice_required": "Employee: Not less than notice in writing. Employer: Immediate effect without giving any Notice Period.",
+          "who_can_terminate": "Employee, Employer.",
+          "consequences": "Employee not entitled to salary of notice period; employee liable to pay Rs. 2 lakhs penalty if within 2 years bond; all company property must be returned."
+        },
+        {
+          "condition": "Company terminates due to Employee’s breach of Agreement.",
+          "notice_required": "Not specified (implied immediate).",
+          "who_can_terminate": "Company.",
+          "consequences": "No severance pay."
+        },
+        {
+          "condition": "Company terminates if Employee does not meet the performance criteria prescribed by the Company.",
+          "notice_required": "Not specified (implied immediate).",
+          "who_can_terminate": "Company.",
+          "consequences": "No severance pay."
+        },
+        {
+          "condition": "Company terminates working relationship without cause.",
+          "notice_required": "Advance notice, except as prescribed by law.",
+          "who_can_terminate": "Company.",
+          "consequences": "Termination of working relationship (during probation or any time)."
+        },
+        {
+          "condition": "Employee leaves the company or terminates his/her employment before completion of two years.",
+          "notice_required": "Not less than notice in writing.",
+          "who_can_terminate": "Employee.",
+          "consequences": "Liable to pay penalty equal to Rs. 2 lakhs."
+        },
+        {
+          "condition": "Employee does any personal work or for any third party during employment.",
+          "notice_required": "Not specified.",
+          "who_can_terminate": "Company.",
+          "consequences": "Becomes a ground for termination and compensation clause will apply."
+        }
+      ],
+      "dispute_resolution": [
+        {
+          "method": "Sole arbitration of a single arbitrator, Mr. __________.",
+          "venue": "Jaipur",
+          "governing_law": "Arbitration and Conciliation Act, 1996 or any statutory modification or re-enactment thereof for the time being in force.",
+          "costs": "Not specified"
+        }
+      ],
+      "penalties": [
+        {
+          "violation": "Employee leaves the company or terminates employment before completion of two years.",
+          "penalty": "Rs. 2 lakhs",
+          "who_pays": "Employee",
+          "enforcement": "Not specified (implied company claim)."
+        },
+        {
+          "violation": "Employee contravenes confidentiality term (e.g., uses company source code directly or indirectly).",
+          "penalty": "Damages under section 73, 74 of the contract act, and entitled to initiate legal proceeding.",
+          "who_pays": "Employee",
+          "enforcement": "Company can claim damages and initiate legal proceedings."
+        },
+        {
+          "violation": "Employee opens similar nature company directly or indirectly after employment.",
+          "penalty": "Damages under section 73, 74 of the contract act, and entitled to initiate legal proceeding.",
+          "who_pays": "Employee",
+          "enforcement": "Company can claim damages and initiate legal proceedings."
+        },
+        {
+          "violation": "Employee tries to connect with the client or customer of the company directly or indirectly during or after employment.",
+          "penalty": "Damages under section 73, 74 of the contract act, and entitled to initiate legal proceeding.",
+          "who_pays": "Employee",
+          "enforcement": "Company can claim damages and initiate legal proceedings."
+        },
+        {
+          "violation": "Employee does any personal work or for any third party during employment.",
+          "penalty": "Ground for termination and compensation clause will apply.",
+          "who_pays": "Employee (for compensation)",
+          "enforcement": "Termination by company and claim for compensation."
+        },
+        {
+          "violation": "Employee terminates agreement by giving notice.",
+          "penalty": "Not entitled to get the salary of the notice period.",
+          "who_pays": "Employer (by withholding salary)",
+          "enforcement": "Not specified (implied withholding)."
+        }
+      ],
+      "compliance_requirements": [
+        {
+          "requirement": "Adhere to all applicable laws and regulations.",
+          "deadline": "During performance of duties.",
+          "responsible_party": "Employee",
+          "verification": "Not specified"
+        },
+        {
+          "requirement": "Follow the Company’s policies and instructions.",
+          "deadline": "During performance of duties.",
+          "responsible_party": "Employee",
+          "verification": "Not specified"
+        },
+        {
+          "requirement": "Fulfill responsibilities or duties under this Employment Agreement.",
+          "deadline": "During employment period.",
+          "responsible_party": "Employee",
+          "verification": "Not specified"
+        },
+        {
+          "requirement": "Services will be governed by the rules and regulations of the company as in force from time to time and also as per certified model.",
+          "deadline": "Continuously during employment.",
+          "responsible_party": "Employee (to abide)",
+          "verification": "Not specified"
+        }
+      ],
+      "confidentiality": [
+        {
+          "scope": "Trade secrets, clients, customers or other confidential information of the Company, its subsidiaries and associate companies world wide, their operations or affairs; corporate secrets and all other information of a confidential nature pertaining to the Company and its operations.",
+          "duration": "During the term of employment under this Employment Agreement or thereafter.",
+          "exceptions": "Disclosure in the regular course of the Company’s business or as required by law; information has become public knowledge other than by reason of actions (direct or indirect) of the Employee.",
+          "breach_consequences": "Company entitled to claim damages under section 73, 74 of the contract act and also entitled to initiate legal proceeding against the employee."
+        }
+      ],
+      "intellectual_property": [
+        {
+          "type": "Creation, innovation or any intellectual property in the form of software, hardware etc.",
+          "ownership": "Exclusive property of the company.",
+          "usage_rights": "Employee may use such information only during his/her employment by the Company and in the interest of the Company. Employee shall not use the source code of the company directly or indirectly.",
+          "protection": "Company entitled to claim damages under section 73, 74 of the contract act and also entitled to initiate legal proceeding against the employee if contravened."
+        },
+        {
+          "type": "Source code of the company",
+          "ownership": "Exclusive property of the company.",
+          "usage_rights": "Employee shall not use directly or indirectly.",
+          "protection": "Company entitled to claim damages under section 73, 74 of the contract act and also entitled to initiate legal proceeding against the employee if contravened."
+        }
+      ]
+    },
+    "created_at": "2025-08-14T16:08:39.898491",
+    "ai_generated": true,
+    "model_used": "gemini-2.5-flash"
+  },
+  "doc_8d3a9e14": {
+    "doc_id": "doc_8d3a9e14",
+    "deep_analysis": {
+      "key_clauses": [
+        {
+          "title": "Agreement Duration and Extension",
+          "description": "Establishes the start and end dates of the rental agreement, with a provision for extension based on mutual consent.",
+          "importance": "high",
+          "original_text": "1. The rent in respect of the “Demised Premises” shall commence from (Starting Date of Agreement) and shall be valid till (Expiry Date of Agreement). Thereafter, the same may be extended further on mutual consent of both the parties.",
+          "implications": "Defines the initial term of the tenancy. Both parties need to actively agree for any extension, providing flexibility for future arrangements but requiring negotiation."
+        },
+        {
+          "title": "Monthly Rent and Payment Terms",
+          "description": "Sets the monthly rent amount, specifies that it excludes electricity and water, and mandates payment by the 7th day of each month.",
+          "importance": "high",
+          "original_text": "2. That the Tenant shall pay to the Owner a monthly rent of Rs.(Amount of rent in Numbers), excluding electricity and water bill. The rent shall be paid on or before 7th day of each month without fail.",
+          "implications": "Clear financial obligation for the Tenant. Establishes a strict monthly payment deadline, failure of which could lead to penalties or termination (though not explicitly stated as a direct trigger in this clause)."
+        },
+        {
+          "title": "Security Deposit",
+          "description": "Details an interest-free refundable security deposit to be paid by the Tenant, its refund conditions, and the Tenant's right to retain possession if the deposit is not refunded.",
+          "importance": "high",
+          "original_text": "6. The Tenant will pay to the Owner an interest-free refundable security deposit of Rs.(Amount in Numbers) vide cheque no (Cheque Number) dated (date of the cheque) at the time of signing the Rent Agreement. The said amount of the Security deposit shall be refunded by the Owner to the Tenant at the time of handing over possession of the demised premises by the Tenant upon expiry or sooner termination of this Rent after adjusting any dues (if any) or cost towards damages caused by the negligence of the Tenant or the person he is responsible for, normal wear & tear and damages due to act of god exempted. In case the Owner fails to refund the security deposit to the Tenant on early termination or expiry of the Rent agreement, the Tenant is entitled to hold possession of the Rented premises, without payment of rent and/or any other charges whatsoever, till such time the Owner refunds the security deposit to the Tenant. This is without prejudice and in addition to the other remedies available to the Tenant to recover the amount from the Owner.",
+          "implications": "Provides financial security for the Owner against damages or unpaid dues. Crucially, it grants the Tenant significant leverage by allowing continued possession without rent if the deposit isn't refunded, protecting the Tenant's financial interest."
+        },
+        {
+          "title": "Early Termination Clause",
+          "description": "Allows either party to terminate the agreement before its expiry by providing one month's prior written notice.",
+          "importance": "high",
+          "original_text": "15. That this Rent Agreement can be terminated before the expiry of this tenancy period by serving One month prior notice in writing by either party.",
+          "implications": "Offers flexibility to both parties to exit the agreement early, but requires a reasonable notice period to avoid abrupt disruptions. Important for planning future moves or tenancy changes."
+        },
+        {
+          "title": "Holding Over Penalty",
+          "description": "Stipulates that if the Tenant does not vacate the premises upon termination, they will pay damages at double the rent, and the Owner can still initiate legal action.",
+          "importance": "high",
+          "original_text": "17. That in case, where the Premises are not vacated by the Tenant, at the termination of the Rent period, the Tenant will pay damages calculated at two times the rent for any period of occupation commencing from the expiry of the Rent period. The payment of damages as aforesaid will not preclude the Owner from initiating legal proceedings against the Tenant for recovering possession of premises or for any other purpose.",
+          "implications": "Acts as a deterrent against unauthorized overstay by the Tenant, providing a financial penalty. It also clarifies that this penalty does not waive the Owner's right to pursue legal action for eviction."
+        }
+      ],
+      "obligations": [
+        {
+          "party": "Tenant",
+          "obligation": "Pay a monthly rent of Rs.(Amount of rent in Numbers) (excluding electricity and water bill)",
+          "deadline": "On or before 7th day of each month",
+          "consequences": "Not specified directly in this clause, but potential for penalties (Clause 17 if not vacated) or legal action."
+        },
+        {
+          "party": "Tenant",
+          "obligation": "Pay a monthly maintenance charge of Rs.(Amount in Numbers) for Generator & Elevator, guards, common area electricity, common area cleaning, and lawn maintenance",
+          "deadline": "Not specified, but implied monthly with rent",
+          "consequences": "Not specified"
+        },
+        {
+          "party": "Tenant",
+          "obligation": "Pay for the running cost of elevator and generator separately to the Owner",
+          "deadline": "Not specified",
+          "consequences": "Not specified"
+        },
+        {
+          "party": "Tenant",
+          "obligation": "Pay for the use of electricity and water as per bills received from authorities directly",
+          "deadline": "As per bills",
+          "consequences": "Not specified"
+        },
+        {
+          "party": "Owner",
+          "obligation": "Pay and clear all dues of electricity bills and water bills till the date possession is handed over to the Tenant according to meter readings",
+          "deadline": "Till date of possession handover to Tenant",
+          "consequences": "Not specified"
+        },
+        {
+          "party": "Tenant",
+          "obligation": "Pay electricity & water bills, as presented by the Departments concerned according to the readings on the respective meters upto the date of vacation of the property",
+          "deadline": "Upto the date of vacation of the property",
+          "consequences": "Not specified"
+        },
+        {
+          "party": "Tenant",
+          "obligation": "Pay an interest-free refundable security deposit of Rs.(Amount in Numbers) vide cheque no (Cheque Number) dated (date of the cheque)",
+          "deadline": "At the time of signing the Rent Agreement",
+          "consequences": "Not specified, but agreement likely not commence without payment."
+        },
+        {
+          "party": "Owner",
+          "obligation": "Hand over sanitary, electrical and other fittings and fixtures and appliances in good working condition",
+          "deadline": "Not specified, implied at possession handover",
+          "consequences": "Not specified"
+        },
+        {
+          "party": "Tenant",
+          "obligation": "Not sublet, assign or part with the demised premises in whole or part thereof",
+          "deadline": "During rent period",
+          "consequences": "Not specified"
+        },
+        {
+          "party": "Tenant",
+          "obligation": "Use the premises for bona fide residential purposes only",
+          "deadline": "During rent period",
+          "consequences": "Not specified"
+        },
+        {
+          "party": "Tenant",
+          "obligation": "Carry out day-to-day minor repairs at his/her own expense",
+          "deadline": "As required",
+          "consequences": "Not specified, but could lead to deductions from security deposit if damage occurs."
+        },
+        {
+          "party": "Owner",
+          "obligation": "Carry out any structural or major repairs, if so required",
+          "deadline": "As required",
+          "consequences": "Not specified"
+        },
+        {
+          "party": "Tenant",
+          "obligation": "Not make structural additions or alterations in the premises without prior written consent of the Owner",
+          "deadline": "During rent period",
+          "consequences": "Not specified"
+        },
+        {
+          "party": "Tenant",
+          "obligation": "Restore changes made (e.g., for AC installation) to the original state",
+          "deadline": "On termination of tenancy or earlier",
+          "consequences": "Not specified, but could lead to deductions from security deposit."
+        },
+        {
+          "party": "Tenant",
+          "obligation": "Comply with all the rules and regulations of the local authority applicable to the demised premises",
+          "deadline": "During rent period",
+          "consequences": "Not specified"
+        },
+        {
+          "party": "Owner",
+          "obligation": "Pay for all taxes/cesses levied on the premises by the local or government authorities (e.g., property tax)",
+          "deadline": "As per tax cycles",
+          "consequences": "Not specified"
+        },
+        {
+          "party": "Owner",
+          "obligation": "Pay any other payment in the nature of subscription or periodical fee to the welfare association",
+          "deadline": "As per association terms",
+          "consequences": "Not specified"
+        },
+        {
+          "party": "Owner",
+          "obligation": "Keep the Tenant free and harmless from any claims, proceedings, demands, or actions by others with respect to quiet possession of the premises",
+          "deadline": "During rent period",
+          "consequences": "Not specified"
+        },
+        {
+          "party": "Tenant",
+          "obligation": "Maintain the Demised Premises in good and tenable condition",
+          "deadline": "During rent period",
+          "consequences": "Not specified, but could lead to deductions from security deposit."
+        },
+        {
+          "party": "Tenant",
+          "obligation": "Carry out all minor repairs such as leakage in the sanitary fittings, water taps and electrical usage etc.",
+          "deadline": "As required",
+          "consequences": "Not specified, but could lead to deductions from security deposit."
+        },
+        {
+          "party": "Tenant",
+          "obligation": "Hand over the vacant and peaceful possession of the demised premises on expiry of the Rent period, or on its early termination, in the same condition subject to natural wear and tear",
+          "deadline": "On expiry or early termination",
+          "consequences": "Payment of damages calculated at two times the rent, and owner can initiate legal proceedings (Clause 17)."
+        },
+        {
+          "party": "Owner and Tenant",
+          "obligation": "Bear equally the charges towards stamp duty, court fee & lawyer/coordinator for agreement registration",
+          "deadline": "At registration",
+          "consequences": "Not specified"
+        }
+      ],
+      "rights": [
+        {
+          "party": "Both Parties",
+          "right": "Extend the agreement further",
+          "conditions": "Mutual consent",
+          "limitations": "Not specified"
+        },
+        {
+          "party": "Tenant",
+          "right": "Hold possession of the Rented premises, without payment of rent and/or any other charges whatsoever",
+          "conditions": "In case the Owner fails to refund the security deposit to the Tenant on early termination or expiry of the Rent agreement",
+          "limitations": "Only till such time the Owner refunds the security deposit"
+        },
+        {
+          "party": "Tenant",
+          "right": "Remove equipment (e.g., ACs, electrical gadgets) installed at own cost",
+          "conditions": "On termination of the tenancy or earlier, and restore changes made to original state",
+          "limitations": "Must restore original state"
+        },
+        {
+          "party": "Owner",
+          "right": "Visit in person or through authorized agent(s), servants, workmen etc., to enter upon the demised premises for inspection or to carry out repairs/construction",
+          "conditions": "Not exceeding once in a month for inspection; as and when required for repairs/construction",
+          "limitations": "Inspection limited to once per month"
+        },
+        {
+          "party": "Tenant",
+          "right": "Quiet possession of the premises",
+          "conditions": "Owner shall keep Tenant free and harmless from any claims, proceedings, demands, or actions by others with respect to quiet possession",
+          "limitations": "Not specified"
+        },
+        {
+          "party": "Either Party",
+          "right": "Terminate the Rent Agreement before expiry of the tenancy period",
+          "conditions": "By serving One month prior notice in writing",
+          "limitations": "One month notice required"
+        },
+        {
+          "party": "Owner",
+          "right": "Initiate legal proceedings against the Tenant for recovering possession of premises or for any other purpose",
+          "conditions": "If the Premises are not vacated by the Tenant at the termination of the Rent period (even if damages are paid)",
+          "limitations": "Not specified"
+        }
+      ],
+      "financial_terms": [
+        {
+          "type": "Monthly Rent",
+          "amount": "Rs.(Amount of rent in Numbers)",
+          "frequency": "Monthly",
+          "conditions": "Excluding electricity and water bill; payable on or before 7th day of each month."
+        },
+        {
+          "type": "Monthly Maintenance Charge",
+          "amount": "Rs.(Amount in Numbers)",
+          "frequency": "Monthly",
+          "conditions": "Towards maintenance of Generator & Elevator, Salaries towards guards, Charges for Electricity Maintenance for Common Areas, Charges towards cleaning of Common Areas and towards maintaining the lawn."
+        },
+        {
+          "type": "Running Cost",
+          "amount": "Not specified (based on usage)",
+          "frequency": "As incurred",
+          "conditions": "For elevator and generator, paid separately to the Owner."
+        },
+        {
+          "type": "Electricity and Water Bills",
+          "amount": "As per bills received from authorities",
+          "frequency": "As incurred",
+          "conditions": "Tenant pays directly for use during tenancy; Owner pays till possession handover to Tenant; Tenant pays till vacation date."
+        },
+        {
+          "type": "Security Deposit",
+          "amount": "Rs.(Amount in Numbers)",
+          "frequency": "One-time",
+          "conditions": "Interest-free, refundable, paid via cheque no (Cheque Number) dated (date of the cheque) at signing. Refunded upon expiry/termination after adjusting dues/damages (excluding normal wear & tear, act of god)."
+        },
+        {
+          "type": "Taxes/Cesses/Welfare Fees",
+          "amount": "As levied by authorities/association",
+          "frequency": "As per tax cycles/periodical",
+          "conditions": "Owner pays for property tax and welfare association fees."
+        },
+        {
+          "type": "Damages for Holding Over",
+          "amount": "Two times the rent",
+          "frequency": "Per period of occupation",
+          "conditions": "If premises are not vacated by the Tenant at the termination of the Rent period."
+        },
+        {
+          "type": "Registration Charges",
+          "amount": "Not specified (charges towards stamp duty, court fee & lawyer/coordinator)",
+          "frequency": "One-time",
+          "conditions": "Equally borne by the Owner and Tenant."
+        }
+      ],
+      "timeline": [
+        {
+          "event": "Rent commencement",
+          "date": "(Starting Date of Agreement)",
+          "importance": "high",
+          "consequences": "Beginning of tenancy and rental obligations."
+        },
+        {
+          "event": "Rent agreement validity end",
+          "date": "(Expiry Date of Agreement)",
+          "importance": "high",
+          "consequences": "Tenancy ends unless mutually extended; Tenant must vacate or pay holding over penalty."
+        },
+        {
+          "event": "Monthly rent payment due",
+          "date": "On or before 7th day of each month",
+          "importance": "high",
+          "consequences": "Late payment could lead to unspecified issues or potential penalties (though not directly stated in Clause 2)."
+        },
+        {
+          "event": "Security deposit payment",
+          "date": "At the time of signing the Rent Agreement",
+          "importance": "high",
+          "consequences": "Agreement becomes effective upon payment."
+        },
+        {
+          "event": "Security deposit refund",
+          "date": "At the time of handing over possession of the demised premises by the Tenant upon expiry or sooner termination",
+          "importance": "high",
+          "consequences": "If Owner fails to refund, Tenant is entitled to hold possession without rent until refunded."
+        },
+        {
+          "event": "Notice for early termination",
+          "date": "One month prior",
+          "importance": "medium",
+          "consequences": "Allows for early termination by either party."
+        },
+        {
+          "event": "Owner's inspection visits",
+          "date": "Not exceeding once in a month",
+          "importance": "low",
+          "consequences": "Ensures privacy for Tenant while allowing Owner oversight."
+        }
+      ],
+      "termination_conditions": [
+        {
+          "condition": "Expiry of tenancy period",
+          "notice_required": "Not specified (automatic expiry)",
+          "who_can_terminate": "Both parties (by natural end)",
+          "consequences": "Tenant must hand over vacant and peaceful possession; security deposit refunded after adjustments. Failure to vacate results in double rent damages and potential legal action."
+        },
+        {
+          "condition": "Mutual consent for extension is not reached",
+          "notice_required": "Not specified (implies agreement ends)",
+          "who_can_terminate": "Both parties (by not agreeing to extend)",
+          "consequences": "Agreement ends on expiry date."
+        },
+        {
+          "condition": "Either party serves written notice",
+          "notice_required": "One month prior notice in writing",
+          "who_can_terminate": "Owner or Tenant",
+          "consequences": "Agreement terminates before its original expiry date; security deposit refunded after adjustments."
+        }
+      ],
+      "dispute_resolution": [
+        {
+          "method": "Civil courts",
+          "venue": "(city) civil courts",
+          "governing_law": "Not specified (implied Indian law based on 'city civil courts')",
+          "costs": "Not specified"
+        }
+      ],
+      "penalties": [
+        {
+          "violation": "Tenant not vacating the premises at the termination of the Rent period",
+          "penalty": "Damages calculated at two times the rent for any period of occupation commencing from the expiry of the Rent period",
+          "who_pays": "Tenant",
+          "enforcement": "Owner can initiate legal proceedings against the Tenant for recovering possession of premises or for any other purpose in addition to the penalty payment."
+        }
+      ],
+      "compliance_requirements": [
+        {
+          "requirement": "Tenant shall comply with all the rules and regulations of the local authority applicable to the demised premises.",
+          "deadline": "During rent period",
+          "responsible_party": "Tenant",
+          "verification": "Not specified"
+        },
+        {
+          "requirement": "Premises will be used only for residential purposes of its employees, families and guests.",
+          "deadline": "During rent period",
+          "responsible_party": "Tenant",
+          "verification": "Not specified"
+        }
+      ],
+      "confidentiality": [],
+      "intellectual_property": []
+    },
+    "created_at": "2025-08-14T17:20:43.897706",
+    "ai_generated": true,
+    "model_used": "gemini-2.5-flash"
+  },
+  "doc_317a90da": {
+    "doc_id": "doc_317a90da",
+    "deep_analysis": {
+      "key_clauses": [
+        {
+          "title": "Designation",
+          "description": "Establishes the Employee's role within the Company.",
+          "importance": "high",
+          "original_text": "The Employee is hereby appointed and shall hold office as ___________ of the Company on the terms and conditions contained hereunder.",
+          "implications": "Defines the official position the employee will hold, with specific terms to follow."
+        },
+        {
+          "title": "Probationary Period",
+          "description": "Sets a trial period for evaluating the new hire, with specific conditions for retention, extension, and status change.",
+          "importance": "high",
+          "original_text": "The probationary period will be of ___________ and the company will evaluate the new hire’s qualifications, skills and \"fit\" within our Company. The given time frame does not const",
+          "implications": "The Company can terminate without cause during this period. Performance evaluation determines whether the employee gains regular status or if probation is extended. Regular status grants eligibility for most benefits."
+        },
+        {
+          "title": "Place of Work",
+          "description": "Specifies the primary work location but grants the Company broad rights to transfer the Employee.",
+          "importance": "medium",
+          "original_text": "The Employee will be stationed in the Employer’s offices currently located in _________, but the Company shall be entitled to transfer the Employee’s services to any of the branches, sister ",
+          "implications": "Employee must be prepared for potential relocation anywhere in India or abroad, and to work at various premises, offering the Company significant operational flexibility."
+        },
+        {
+          "title": "Duties and Powers",
+          "description": "Outlines the Employee's responsibilities, reporting structure, and restrictions on external activities or unauthorized commitments.",
+          "importance": "high",
+          "original_text": "The Employee shall devote his / her efforts and his / her full business time and attention to the performance of such duties and responsibilities as may be assigned to him/her from time to time by the ",
+          "implications": "Employee must commit full time to Company duties, follow all instructions, and cannot undertake outside work or bind the company without explicit consent, potentially incurring liability."
+        },
+        {
+          "title": "Annual Base Salary",
+          "description": "Defines the employee's compensation and conditions under which it may not be paid.",
+          "importance": "high",
+          "original_text": "The Employee, who is entitled to a salary, will be CTC (as given in salary structure) in accordance with the Company’s customary payroll practices. ",
+          "implications": "Employee's salary is contingent on meeting company objectives/targets, giving the Company leverage based on performance."
+        },
+        {
+          "title": "Confidentiality",
+          "description": "Protects the Company's proprietary information, trade secrets, client data, and intellectual property, both during and after employment.",
+          "importance": "high",
+          "original_text": "The Employee shall not, directly or indirectly, either during the term of the Employee’s employment under this Employment Agreement or thereafter, disclose to anyone (except in the regular course of the Co",
+          "implications": "Employee is bound by strict confidentiality, preventing disclosure or competitive use of Company information indefinitely. Breach can lead to significant damages and legal action. All created IP belongs to the Company."
+        },
+        {
+          "title": "Non-Compete Clause",
+          "description": "Restricts the Employee from competitive activities and client solicitation during and after employment.",
+          "importance": "high",
+          "original_text": "That the employee after the period of employment is over, shall not open similar nature company upto three years directly or indirectly. If the company finds that the employee is contravening this term dir",
+          "implications": "Employee faces significant restrictions on post-employment activities, including starting a similar business for three years and contacting Company clients. Violations can result in substantial damages and legal action."
+        },
+        {
+          "title": "Term of Contract, Termination of Employment and Severance Pay",
+          "description": "Outlines the agreement's duration, conditions for termination by either party, notice requirements, and financial consequences including penalties and severance.",
+          "importance": "high",
+          "original_text": "This Employment Agreement shall continue until terminated by either Party as provided herein and supersedes any and all prior oral or written agreements pertaining to the duration, compensation and condit",
+          "implications": "The Company has broad termination rights, including immediate termination without notice, and the Employee faces a substantial penalty for early resignation within two years. Severance pay is conditional."
+        },
+        {
+          "title": "Dispute Resolution (Arbitration)",
+          "description": "Mandates that any disputes arising from the agreement be resolved through sole arbitration.",
+          "importance": "high",
+          "original_text": "It is hereby agreed by and between the Company and the Employee hereto that in case any claim, dispute or difference arises between the Parties with regard to the terms and conditions of this Employment ",
+          "implications": "Disputes are handled privately through arbitration in Jaipur, governed by Indian law, preventing traditional court litigation and making the arbitrator's decision final and binding."
+        }
+      ],
+      "obligations": [
+        {
+          "party": "Employee",
+          "obligation": "Devote full business time and attention to duties and responsibilities assigned by Director/Senior Manager/Board.",
+          "deadline": "During employment period",
+          "consequences": "Not specified directly, but can be a ground for performance issues or breach."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Follow all instructions issued by Director, Manager immediately Senior, or Board of Directors.",
+          "deadline": "During employment period",
+          "consequences": "Not specified directly, but can be a ground for performance issues or breach."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Maintain proper dignity of the company’s office and deal with matters with sobriety.",
+          "deadline": "During employment period",
+          "consequences": "Not specified directly, but can be a ground for performance issues or breach."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Adhere to all applicable laws and regulations.",
+          "deadline": "During employment period",
+          "consequences": "Not specified directly, but can be a ground for breach or termination."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Follow the Company’s policies and instructions.",
+          "deadline": "During employment period",
+          "consequences": "Not specified directly, but can be a ground for breach or termination."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Perform duties faithfully, diligently and competently.",
+          "deadline": "During employment period",
+          "consequences": "Not specified directly, but can be a ground for performance issues or termination."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Report directly to the immediate Head or Senior in hierarchy.",
+          "deadline": "During employment period",
+          "consequences": "Not specified directly, but can be a ground for performance issues."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Not engage in activities outside the scope of employment without prior written consent of the Board of Directors.",
+          "deadline": "During employment period",
+          "consequences": "Breach of employment agreement, potential for termination and compensation clause (implied from 7.3)."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Not sign any documents or commit on behalf of the company without mutual consent.",
+          "deadline": "During employment period",
+          "consequences": "Company shall not be responsible for any liability arising from such actions."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Maintain confidential all corporate secrets and other confidential information pertaining to the Company and its operations.",
+          "deadline": "During employment and thereafter",
+          "consequences": "Damages under section 73, 74 of the contract act and legal proceedings."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Not disclose, or use in any manner, trade secrets, clients, customers, or other confidential information.",
+          "deadline": "During employment and thereafter",
+          "consequences": "Damages under section 73, 74 of the contract act and legal proceedings."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Not use the source code of the company directly or indirectly.",
+          "deadline": "During employment and thereafter",
+          "consequences": "Company entitled to claim damages under section 73, 74 of the contract act and initiate legal proceeding."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Not divulge or appropriate to his/her own use or to the use of others, in competition with the company, any secret or confidential information.",
+          "deadline": "During and after employment period",
+          "consequences": "Not specified, but generally would fall under breach of contract and damages."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Maintain proper dignity as well as decorum of company’s office.",
+          "deadline": "During employment period",
+          "consequences": "Not specified directly, but can be a ground for performance issues or breach."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Maintain and keep in safe custody identity card, documents, files, books, mobile, laptop, papers etc issued.",
+          "deadline": "During employment period",
+          "consequences": "Not specified directly."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Return all business documentation, software, notes etc. and copies thereof pertaining to the Company upon termination.",
+          "deadline": "Upon termination of employment",
+          "consequences": "Not specified directly, but implied breach of contract."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Not open a similar nature company for up to three years directly or indirectly.",
+          "deadline": "For three years after employment period is over",
+          "consequences": "Company entitled to claim damages under section 73, 74 of the contract act and initiate appropriate legal proceeding."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Not try to connect with the client or customer of the company directly or indirectly.",
+          "deadline": "During employment period as well as after the employment period is over",
+          "consequences": "Company entitled to claim damages under section 73, 74 of the contract act and initiate appropriate legal proceeding."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Not do any personal work or for any third party.",
+          "deadline": "During the course of employment",
+          "consequences": "Ground for termination and compensation clause will apply."
+        },
+        {
+          "party": "Employee",
+          "obligation": "Give notice in writing to the Employer for termination of employment.",
+          "deadline": "Not less than specified notice period (not specified)",
+          "consequences": "Employee shall not be entitled to get the salary of the notice period."
+        },
+        {
+          "party": "Company",
+          "obligation": "Evaluate new hire’s qualifications, skills and \"fit\".",
+          "deadline": "During probationary period",
+          "consequences": "Not specified."
+        },
+        {
+          "party": "Company",
+          "obligation": "Pay CTC (as given in salary structure) in accordance with customary payroll practices.",
+          "deadline": "Not specified (customary payroll practices)",
+          "consequences": "Not specified, but implies breach of contract if not paid when due and conditions met."
+        }
+      ],
+      "rights": [
+        {
+          "party": "Company",
+          "right": "Evaluate the new hire’s qualifications, skills and 'fit'.",
+          "conditions": "During the probationary period.",
+          "limitations": "Not specified."
+        },
+        {
+          "party": "Company",
+          "right": "Terminate the working relationship without cause with advance notice (except as prescribed by law).",
+          "conditions": "During the probationary period or at any time of employment.",
+          "limitations": "Must adhere to law regarding notice."
+        },
+        {
+          "party": "Company",
+          "right": "Extend the length of the probation.",
+          "conditions": "At its sole discretion, if employee has not been available to work full probationary period or work performance has not met expectations.",
+          "limitations": "Not specified."
+        },
+        {
+          "party": "Company",
+          "right": "Transfer the Employee’s services to any of its branches, sister concerns, in India or outside India.",
+          "conditions": "Presently operating or may be set up in future.",
+          "limitations": "Not specified."
+        },
+        {
+          "party": "Company",
+          "right": "Modify the Agreement or Rules and Regulations.",
+          "conditions": "From time to time.",
+          "limitations": "Modifications will be applicable from the same day."
+        },
+        {
+          "party": "Company",
+          "right": "Claim damages under section 73, 74 of the contract act and initiate legal proceeding.",
+          "conditions": "If employee contravenes confidentiality term (e.g., source code use).",
+          "limitations": "Not specified."
+        },
+        {
+          "party": "Company",
+          "right": "Claim damages under section 73, 74 of the contract act and initiate appropriate legal proceeding.",
+          "conditions": "If employee contravenes non-compete term (similar nature company).",
+          "limitations": "Not specified."
+        },
+        {
+          "party": "Company",
+          "right": "Claim damages under section 73, 74 of the contract act and initiate appropriate legal proceeding.",
+          "conditions": "If employee tries to connect with company clients during or after employment.",
+          "limitations": "Not specified."
+        },
+        {
+          "party": "Company",
+          "right": "Terminate the employee with immediate effect without giving any Notice Period.",
+          "conditions": "Any time.",
+          "limitations": "Not specified if this right is absolute or for specific breaches (though elsewhere, breaches are mentioned as grounds for no severance)."
+        },
+        {
+          "party": "Company",
+          "right": "Not make severance pay.",
+          "conditions": "If Company terminates Employee’s employment due to his/her breach of Agreement or if he/she do not meet performance criteria.",
+          "limitations": "Not specified."
+        },
+        {
+          "party": "Company",
+          "right": "Request delivery of all business documentation, software, notes etc. and copies thereof.",
+          "conditions": "At any time, or upon termination of employment.",
+          "limitations": "Not specified."
+        },
+        {
+          "party": "Employee",
+          "right": "Achieve a regular or part-time employee status.",
+          "conditions": "Upon satisfactory completion of the probationary period.",
+          "limitations": "Subject to Company's evaluation and discretion."
+        },
+        {
+          "party": "Employee",
+          "right": "Be eligible for most of Company's benefits.",
+          "conditions": "Upon satisfactory completion of the probationary period and achieving regular/part-time status.",
+          "limitations": "Exceptions would be benefits that have a specific waiting period."
+        },
+        {
+          "party": "Employee",
+          "right": "Lawfully terminate this Employment Agreement.",
+          "conditions": "By giving to the Employer not less than specified notice in writing.",
+          "limitations": "Not entitled to get the salary of the notice period; liable to pay penalty if bond broken."
+        }
+      ],
+      "financial_terms": [
+        {
+          "type": "Salary",
+          "amount": "CTC (as given in salary structure)",
+          "frequency": "Not specified (Company’s customary payroll practices)",
+          "conditions": "Employee is entitled only if he/she meets the objectives or targets laid down by the company."
+        },
+        {
+          "type": "Penalty",
+          "amount": "Rs. 2 lakhs",
+          "frequency": "One-time",
+          "conditions": "If employee leaves the company or terminates employment before completion of two years, or on break of bond of two years."
+        },
+        {
+          "type": "Notice Period Salary Forfeiture",
+          "amount": "Not specified (salary of the notice period)",
+          "frequency": "One-time",
+          "conditions": "If employee terminates the employment by giving notice (employee not entitled to salary for notice period)."
+        }
+      ],
+      "timeline": [
+        {
+          "event": "Probationary Period End",
+          "date": "Not specified (length is ___________)",
+          "importance": "high",
+          "consequences": "Company evaluates performance; may extend probation or grant regular/part-time status. If performance not met, extension or termination."
+        },
+        {
+          "event": "Completion of Two Years (Bond Period)",
+          "date": "2 years from start of employment",
+          "importance": "high",
+          "consequences": "Employee avoids Rs. 2 lakhs penalty if they do not leave or terminate before this period."
+        },
+        {
+          "event": "Post-Employment Non-Compete Period (Similar Company)",
+          "date": "Up to three years after employment ends",
+          "importance": "high",
+          "consequences": "Employee cannot open similar business; violation leads to damages and legal action."
+        },
+        {
+          "event": "Agreement Revival/Application (Confidentiality)",
+          "date": "Post completion of Two-Year period",
+          "importance": "medium",
+          "consequences": "The confidentiality agreement shall revive and apply again."
+        }
+      ],
+      "termination_conditions": [
+        {
+          "condition": "Employer initiates termination",
+          "notice_required": "Immediate effect, without giving any Notice Period",
+          "who_can_terminate": "Employer",
+          "consequences": "Not specified directly, but no severance if due to breach or not meeting performance."
+        },
+        {
+          "condition": "Employee initiates termination",
+          "notice_required": "Not less than notice in writing (duration not specified)",
+          "who_can_terminate": "Employee",
+          "consequences": "Employee not entitled to salary of the notice period. If before 2 years, liable to pay Rs. 2 lakhs penalty."
+        },
+        {
+          "condition": "Employee breaches Agreement or fails to meet performance criteria",
+          "notice_required": "Not specified (implied immediate effect for serious breaches)",
+          "who_can_terminate": "Company",
+          "consequences": "No severance pay will be made to the Employee."
+        },
+        {
+          "condition": "Employee does personal work or for any third party",
+          "notice_required": "Not specified (implied immediate termination)",
+          "who_can_terminate": "Company",
+          "consequences": "Ground for termination and compensation clause will apply."
+        }
+      ],
+      "dispute_resolution": [
+        {
+          "method": "Sole arbitration (arbitrator: Mr. __________, proceedings conducted in Hindi language)",
+          "venue": "Jaipur",
+          "governing_law": "Arbitration and Conciliation Act, 1996",
+          "costs": "Not specified"
+        }
+      ],
+      "penalties": [
+        {
+          "violation": "Employee leaves or terminates employment before completion of two years / breaks bond of two years",
+          "penalty": "Rs. 2 lakhs",
+          "who_pays": "Employee",
+          "enforcement": "Not specified (implied legal action if not paid voluntarily)"
+        },
+        {
+          "violation": "Employee contravenes confidentiality term (e.g., using source code directly or indirectly)",
+          "penalty": "Damages under section 73, 74 of the contract act and legal proceeding",
+          "who_pays": "Employee",
+          "enforcement": "Initiation of legal proceeding by the company"
+        },
+        {
+          "violation": "Employee opens similar nature company after employment period (up to three years) directly or indirectly",
+          "penalty": "Damages under section 73, 74 of the contract act as well as appropriate legal proceeding",
+          "who_pays": "Employee",
+          "enforcement": "Initiation of legal proceeding by the company"
+        },
+        {
+          "violation": "Employee tries to connect with the client or customer of the company directly or indirectly (during or after employment)",
+          "penalty": "Damages under section 73, 74 of the contract act as well as appropriate legal proceeding",
+          "who_pays": "Employee",
+          "enforcement": "Initiation of legal proceeding by the company"
+        },
+        {
+          "violation": "Employee does any personal work or for any third party during employment",
+          "penalty": "Termination and compensation clause will apply",
+          "who_pays": "Employee (for compensation, if applicable)",
+          "enforcement": "Termination of employment"
+        },
+        {
+          "violation": "Employee signs on any documents or commits on behalf of the company without mutual consent",
+          "penalty": "Company shall not be responsible for any arising liability; liability shifts to employee (implied)",
+          "who_pays": "Employee (for liability)",
+          "enforcement": "Not specified"
+        }
+      ],
+      "compliance_requirements": [
+        {
+          "requirement": "Employee to adhere to all applicable laws and regulations.",
+          "deadline": "During employment period",
+          "responsible_party": "Employee",
+          "verification": "Not specified"
+        },
+        {
+          "requirement": "Employee to follow the Company’s policies and instructions.",
+          "deadline": "During employment period",
+          "responsible_party": "Employee",
+          "verification": "Not specified"
+        },
+        {
+          "requirement": "Employee to meet and maintain Company standards for job performance and behavior.",
+          "deadline": "Upon satisfactory completion of probationary period and thereafter",
+          "responsible_party": "Employee",
+          "verification": "Performance evaluations"
+        },
+        {
+          "requirement": "Employee to ensure services are governed by rules and regulations of the company as in force from time to time and as per certified model.",
+          "deadline": "During employment period",
+          "responsible_party": "Employee",
+          "verification": "Not specified"
+        }
+      ],
+      "confidentiality": [
+        {
+          "scope": "Trade secrets, clients, customers, other confidential information of the Company, its subsidiaries and associate companies worldwide, their operations or affairs.",
+          "duration": "During the term of employment or thereafter",
+          "exceptions": "In the regular course of the Company’s business, as required by law, or if information has become public knowledge other than by reason of employee's actions.",
+          "breach_consequences": "Damages under section 73, 74 of the contract act and legal proceeding."
+        },
+        {
+          "scope": "Corporate secrets and all other information of a confidential nature pertaining to the Company and its operations.",
+          "duration": "As long as Employee is employed, and also thereafter.",
+          "exceptions": "Use such information only during employment by the Company and in the interest of the Company.",
+          "breach_consequences": "Not specified directly, but implied as per general confidentiality breaches."
+        },
+        {
+          "scope": "Secret or confidential information or knowledge pertaining to the business of the company, or of any of its subsidiaries.",
+          "duration": "During and after the employment period.",
+          "exceptions": "Not specified.",
+          "breach_consequences": "Not specified directly, but implied as per general confidentiality breaches."
+        },
+        {
+          "scope": "Business documentation, software, notes etc. and copies thereof pertaining to the Company and its operations.",
+          "duration": "Until returned upon termination or request.",
+          "exceptions": "Not specified.",
+          "breach_consequences": "Not specified directly."
+        }
+      ],
+      "intellectual_property": [
+        {
+          "type": "Creation, innovation, intellectual property in the form of software, hardware etc.",
+          "ownership": "Exclusive property of the company",
+          "usage_rights": "Employee may use such information only during his/her employment by the Company and in the interest of the Company.",
+          "protection": "Confidentiality clauses; Employee shall not use the source code directly or indirectly. Breach leads to damages (Sec 73, 74 Contract Act) and legal proceedings."
+        },
+        {
+          "type": "Source code of the company",
+          "ownership": "Exclusive property of the company",
+          "usage_rights": "Employee shall not use directly or indirectly.",
+          "protection": "Confidentiality clauses; Breach leads to damages (Sec 73, 74 Contract Act) and legal proceedings."
+        },
+        {
+          "type": "Memoranda, notes, records, or other documents made or composed by the Employee, or made available to him/her concerning or relating to the business or affairs of the Company, its subsidiaries, divisions, affiliates, or clients",
+          "ownership": "Company’s property",
+          "usage_rights": "Not specified for employee, but implied for Company.",
+          "protection": "Must be delivered to the Company on termination or at any other time at the request of the Company."
+        }
+      ]
+    },
+    "created_at": "2025-08-25T11:19:42.472442",
+    "ai_generated": true,
+    "model_used": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "doc_a7caee9e": {
+    "doc_id": "doc_a7caee9e",
+    "detailed_clauses": {
+      "clauses": [
+        {
+          "id": "clause-8546-7",
+          "clauseNumber": "8546.7",
+          "title": "Clause 8546.7",
+          "plainEnglish": "Clause 8546.7: : CONSULTANT, subconsultants, and the COMMISSION shall maintain all books, documents,",
+          "riskLevel": "medium",
+          "riskReasons": [
+            "Standard clause requiring review"
+          ],
+          "actions": [
+            {
+              "task": "Complete or clarify this clause",
+              "dueDate": null
+            }
+          ],
+          "evidence": [
+            {
+              "start": 0,
+              "end": 200
+            }
+          ],
+          "originalText": "8546.7 : CONSULTANT, subconsultants, and the COMMISSION shall maintain all books, documents,",
+          "implications": "Incomplete clauses create legal uncertainty and potential disputes",
+          "importance": "medium",
+          "category": "General",
+          "completeness": "complete",
+          "clarity": "clear",
+          "legalIssues": [
+            "Standard legal review required"
+          ],
+          "recommendations": [
+            "Review for legal compliance"
+          ]
+        },
+        {
+          "id": "section-4",
+          "clauseNumber": "Section 4",
+          "title": "Section 4",
+          "plainEnglish": "Section 4: of this",
+          "riskLevel": "high",
+          "riskReasons": [
+            "Incomplete section creates legal uncertainty"
+          ],
+          "actions": [
+            {
+              "task": "Complete or clarify this section",
+              "dueDate": null
+            }
+          ],
+          "evidence": [
+            {
+              "start": 0,
+              "end": 200
+            }
+          ],
+          "originalText": "Section 4 of this",
+          "implications": "Incomplete sections create legal uncertainty and potential disputes",
+          "importance": "high",
+          "category": "General",
+          "completeness": "incomplete",
+          "clarity": "unclear",
+          "legalIssues": [
+            "Incomplete section may not be enforceable"
+          ],
+          "recommendations": [
+            "Complete this section with specific terms and conditions"
+          ]
+        },
+        {
+          "id": "section-12990",
+          "clauseNumber": "Section 12990",
+          "title": "Section 12990",
+          "plainEnglish": "Section 12990: and",
+          "riskLevel": "high",
+          "riskReasons": [
+            "Incomplete section creates legal uncertainty"
+          ],
+          "actions": [
+            {
+              "task": "Complete or clarify this section",
+              "dueDate": null
+            }
+          ],
+          "evidence": [
+            {
+              "start": 0,
+              "end": 200
+            }
+          ],
+          "originalText": "Section 12990 and",
+          "implications": "Incomplete sections create legal uncertainty and potential disputes",
+          "importance": "high",
+          "category": "General",
+          "completeness": "incomplete",
+          "clarity": "unclear",
+          "legalIssues": [
+            "Incomplete section may not be enforceable"
+          ],
+          "recommendations": [
+            "Complete this section with specific terms and conditions"
+          ]
+        },
+        {
+          "id": "section-8103-",
+          "clauseNumber": "Section 8103.",
+          "title": "Section 8103.",
+          "plainEnglish": "Section 8103.: Page 6",
+          "riskLevel": "high",
+          "riskReasons": [
+            "Incomplete section creates legal uncertainty"
+          ],
+          "actions": [
+            {
+              "task": "Complete or clarify this section",
+              "dueDate": null
+            }
+          ],
+          "evidence": [
+            {
+              "start": 0,
+              "end": 200
+            }
+          ],
+          "originalText": "Section 8103. Page 6",
+          "implications": "Incomplete sections create legal uncertainty and potential disputes",
+          "importance": "high",
+          "category": "General",
+          "completeness": "incomplete",
+          "clarity": "unclear",
+          "legalIssues": [
+            "Incomplete section may not be enforceable"
+          ],
+          "recommendations": [
+            "Complete this section with specific terms and conditions"
+          ]
+        },
+        {
+          "id": "section-2500",
+          "clauseNumber": "Section 2500",
+          "title": "Section 2500",
+          "plainEnglish": "Section 2500: et seq.,",
+          "riskLevel": "high",
+          "riskReasons": [
+            "Incomplete section creates legal uncertainty"
+          ],
+          "actions": [
+            {
+              "task": "Complete or clarify this section",
+              "dueDate": null
+            }
+          ],
+          "evidence": [
+            {
+              "start": 0,
+              "end": 200
+            }
+          ],
+          "originalText": "Section 2500 et seq.,",
+          "implications": "Incomplete sections create legal uncertainty and potential disputes",
+          "importance": "high",
+          "category": "General",
+          "completeness": "incomplete",
+          "clarity": "unclear",
+          "legalIssues": [
+            "Incomplete section may not be enforceable"
+          ],
+          "recommendations": [
+            "Complete this section with specific terms and conditions"
+          ]
+        }
+      ],
+      "summary": "Fallback clause analysis completed. Found 5 clauses, including 4 incomplete ones.",
+      "total_clauses": 5,
+      "incomplete_clauses": 4,
+      "ai_generated": false,
+      "analysis_timestamp": "2025-08-14T09:00:05.201680",
+      "model_used": "fallback-detailed-clause-analysis",
+      "error": "AI analysis failed, using fallback numbered clause identification"
+    },
+    "saved_at": "2025-08-14T09:00:05.212679",
+    "version": "1.0"
+  },
+  "doc_aacce682": {
+    "doc_id": "doc_aacce682",
+    "detailed_clauses": {
+      "clauses": [
+        {
+          "id": "fallback-1",
+          "title": "Employment Terms",
+          "relevance": "Defines the employment relationship and basic terms",
+          "plainEnglish": "This section explains the employment relationship between the parties and the basic terms of employment",
+          "riskLevel": "medium",
+          "category": "Employment"
+        },
+        {
+          "id": "fallback-2",
+          "title": "Compensation",
+          "relevance": "Defines how much and when the employee will be paid",
+          "plainEnglish": "This section explains the salary, payment schedule, and any bonus or benefit terms",
+          "riskLevel": "medium",
+          "category": "Compensation"
+        },
+        {
+          "id": "fallback-3",
+          "title": "Job Duties",
+          "relevance": "Explains what the employee is expected to do",
+          "plainEnglish": "This section describes the job duties, responsibilities, and what work the employee will perform",
+          "riskLevel": "low",
+          "category": "Duties"
+        },
+        {
+          "id": "fallback-4",
+          "title": "Termination",
+          "relevance": "Explains how the employment can be ended",
+          "plainEnglish": "This section explains the conditions under which employment can be terminated and what notice is required",
+          "riskLevel": "high",
+          "category": "Termination"
+        },
+        {
+          "id": "fallback-5",
+          "title": "Confidentiality",
+          "relevance": "Protects company information and trade secrets",
+          "plainEnglish": "This section requires the employee to keep company information confidential and not share it with others",
+          "riskLevel": "medium",
+          "category": "Confidentiality"
+        }
+      ],
+      "summary": "Found 5 main clauses in the document",
+      "total_clauses": 5,
+      "ai_generated": false,
+      "analysis_timestamp": "2025-08-14T16:08:39.914024",
+      "model_used": "fallback-detailed-clause-analysis",
+      "error": "AI analysis failed, using fallback clause identification"
+    },
+    "saved_at": "2025-08-14T16:08:39.918570",
+    "version": "1.0"
+  },
+  "doc_8d3a9e14": {
+    "doc_id": "doc_8d3a9e14",
+    "detailed_clauses": {
+      "clauses": [
+        {
+          "id": "fallback-1",
+          "title": "Employment Terms",
+          "relevance": "Defines the employment relationship and basic terms",
+          "plainEnglish": "This section explains the employment relationship between the parties and the basic terms of employment",
+          "riskLevel": "medium",
+          "category": "Employment"
+        },
+        {
+          "id": "fallback-2",
+          "title": "Compensation",
+          "relevance": "Defines how much and when the employee will be paid",
+          "plainEnglish": "This section explains the salary, payment schedule, and any bonus or benefit terms",
+          "riskLevel": "medium",
+          "category": "Compensation"
+        },
+        {
+          "id": "fallback-3",
+          "title": "Job Duties",
+          "relevance": "Explains what the employee is expected to do",
+          "plainEnglish": "This section describes the job duties, responsibilities, and what work the employee will perform",
+          "riskLevel": "low",
+          "category": "Duties"
+        },
+        {
+          "id": "fallback-4",
+          "title": "Termination",
+          "relevance": "Explains how the employment can be ended",
+          "plainEnglish": "This section explains the conditions under which employment can be terminated and what notice is required",
+          "riskLevel": "high",
+          "category": "Termination"
+        }
+      ],
+      "summary": "Found 4 main clauses in the document",
+      "total_clauses": 4,
+      "ai_generated": false,
+      "analysis_timestamp": "2025-08-14T17:20:43.923699",
+      "model_used": "fallback-detailed-clause-analysis",
+      "error": "AI analysis failed, using fallback clause identification"
+    },
+    "saved_at": "2025-08-14T17:20:43.927705",
+    "version": "1.0"
+  }
+}

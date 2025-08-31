@@ -1,0 +1,33 @@
+GEMINI API SETUP INSTRUCTIONS
+================================
+
+1. GET YOUR GEMINI API KEY:
+   - Go to: https://makersuite.google.com/app/apikey
+   - Sign in with your Google account
+   - Click "Create API Key"
+   - Copy the API key (starts with "AI")
+
+2. SET THE ENVIRONMENT VARIABLE:
+
+   In PowerShell (temporary):
+   $env:GEMINI_API_KEY="your_actual_api_key_here"
+
+   In PowerShell (permanent):
+   [Environment]::SetEnvironmentVariable("GEMINI_API_KEY", "your_actual_api_key_here", "User")
+
+   Or create a .env file in your project root:
+   GEMINI_API_KEY=your_actual_api_key_here
+
+3. TEST THE SETUP:
+   python test_gemini.py
+
+4. RESTART YOUR BACKEND:
+   python backend.py
+
+EXAMPLE:
+If your API key is "AIzaSyC1234567890abcdefghijklmnopqrstuvwxyz", then:
+
+$env:GEMINI_API_KEY="AIzaSyC1234567890abcdefghijklmnopqrstuvwxyz"
+
+Then run:
+python test_gemini.py 

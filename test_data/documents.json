@@ -1,0 +1,13 @@
+{
+  "test_doc_123": {
+    "id": "test_doc_123",
+    "filename": "test_document.txt",
+    "original_path": "test_document.txt",
+    "stored_path": "test_data\\documents\\test_doc_123_test_document.txt",
+    "mime_type": "text/plain",
+    "uploaded_at": "2025-08-13T20:47:37.733865",
+    "file_size": 51,
+    "status": "completed",
+    "analyzed_at": "2025-08-13T20:47:37.737191"
+  }
+}

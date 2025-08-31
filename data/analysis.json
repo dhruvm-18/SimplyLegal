@@ -1,0 +1,122 @@
+{
+  "doc_a7caee9e": {
+    "doc_id": "doc_a7caee9e",
+    "analysis": {
+      "summary": "AI analysis failed for document 'SampleContract-Shuttle.pdf'. Please try uploading the document again or contact support.",
+      "document_type": "Analysis Failed",
+      "parties_involved": [],
+      "key_terms": [],
+      "legal_implications": [],
+      "compliance_issues": [],
+      "negotiation_points": [],
+      "clauses": [],
+      "risks": [],
+      "checklist": [],
+      "recommendations": [
+        "Please try uploading the document again for AI analysis"
+      ],
+      "ai_generated": false,
+      "analysis_timestamp": "2025-08-14T09:03:45.962677",
+      "model_used": "fallback-analysis",
+      "error": "Gemini AI analysis failed"
+    },
+    "analyzed_at": "2025-08-14T09:03:45.962677",
+    "version": "1.0"
+  },
+  "doc_aacce682": {
+    "doc_id": "doc_aacce682",
+    "analysis": {
+      "summary": "AI analysis failed for document 'EMPLOYMENT-AGREEMENT.pdf'. Please try uploading the document again or contact support.",
+      "document_type": "Analysis Failed",
+      "parties_involved": [],
+      "key_terms": [],
+      "legal_implications": [],
+      "compliance_issues": [],
+      "negotiation_points": [],
+      "clauses": [],
+      "risks": [],
+      "checklist": [],
+      "recommendations": [
+        "Please try uploading the document again for AI analysis"
+      ],
+      "ai_generated": false,
+      "analysis_timestamp": "2025-08-14T16:10:30.094902",
+      "model_used": "fallback-analysis",
+      "error": "Gemini AI analysis failed"
+    },
+    "analyzed_at": "2025-08-14T16:10:30.094902",
+    "version": "1.0"
+  },
+  "doc_a3eb41e4": {
+    "doc_id": "doc_a3eb41e4",
+    "analysis": {
+      "summary": "AI analysis failed for document '1655708276_rentalagreementsampleandallyouneedtoknow.pdf'. Please try uploading the document again or contact support.",
+      "document_type": "Analysis Failed",
+      "parties_involved": [],
+      "key_terms": [],
+      "legal_implications": [],
+      "compliance_issues": [],
+      "negotiation_points": [],
+      "clauses": [],
+      "risks": [],
+      "checklist": [],
+      "recommendations": [
+        "Please try uploading the document again for AI analysis"
+      ],
+      "ai_generated": false,
+      "analysis_timestamp": "2025-08-14T16:28:12.771433",
+      "model_used": "fallback-analysis",
+      "error": "Gemini AI analysis failed"
+    },
+    "analyzed_at": "2025-08-14T16:28:12.771433",
+    "version": "1.0"
+  },
+  "doc_8d3a9e14": {
+    "doc_id": "doc_8d3a9e14",
+    "analysis": {
+      "summary": "AI analysis failed for document '1655708276_rentalagreementsampleandallyouneedtoknow.pdf'. Please try uploading the document again or contact support.",
+      "document_type": "Analysis Failed",
+      "parties_involved": [],
+      "key_terms": [],
+      "legal_implications": [],
+      "compliance_issues": [],
+      "negotiation_points": [],
+      "clauses": [],
+      "risks": [],
+      "checklist": [],
+      "recommendations": [
+        "Please try uploading the document again for AI analysis"
+      ],
+      "ai_generated": false,
+      "analysis_timestamp": "2025-08-14T17:22:55.035435",
+      "model_used": "fallback-analysis",
+      "error": "Gemini AI analysis failed"
+    },
+    "analyzed_at": "2025-08-14T17:22:55.035435",
+    "version": "1.0"
+  },
+  "doc_317a90da": {
+    "doc_id": "doc_317a90da",
+    "analysis": {
+      "summary": "AI analysis failed for document 'EMPLOYMENT-AGREEMENT'. Please try uploading the document again or contact support.",
+      "document_type": "Analysis Failed",
+      "parties_involved": [],
+      "key_terms": [],
+      "legal_implications": [],
+      "compliance_issues": [],
+      "negotiation_points": [],
+      "clauses": [],
+      "risks": [],
+      "checklist": [],
+      "recommendations": [
+        "Please try uploading the document again for AI analysis"
+      ],
+      "ai_generated": false,
+      "analysis_timestamp": "2025-08-25T11:22:42.203447",
+      "model_used": "fallback-analysis",
+      "error": "Gemini AI analysis failed"
+    },
+    "analyzed_at": "2025-08-25T11:22:42.203447",
+    "version": "1.0"
+  }
+}

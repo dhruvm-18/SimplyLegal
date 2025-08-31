@@ -1,0 +1,24 @@
+# SimplyLegal Backend Configuration
+# Copy this content to a file named .env and fill in your actual values
+
+# Google Gemini API Key (Required for AI analysis)
+# Get your key from: https://makersuite.google.com/app/apikey
+GEMINI_API_KEY=your_actual_gemini_api_key_here
+
+# Flask Secret Key (Required for sessions)
+# Generate a secure random key for production
+SECRET_KEY=your_secret_key_here
+
+# Optional: Maximum file upload size (in bytes)
+# Default: 10MB (10 * 1024 * 1024)
+MAX_CONTENT_LENGTH=10485760
+
+# Optional: Flask debug mode
+# Set to False in production
+FLASK_DEBUG=True
+
+# Optional: Database configuration (for future use)
+# DATABASE_URL=sqlite:///legal_docs.db
+
+# Optional: Redis configuration (for caching)
+# REDIS_URL=redis://localhost:6379 

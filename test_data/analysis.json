@@ -1,0 +1,22 @@
+{
+  "test_doc_123": {
+    "doc_id": "test_doc_123",
+    "analysis": {
+      "summary": "Test document analysis",
+      "document_type": "Test Document",
+      "parties_involved": [
+        "Test Party 1",
+        "Test Party 2"
+      ],
+      "key_terms": [
+        "Term 1",
+        "Term 2"
+      ],
+      "ai_generated": true,
+      "analysis_timestamp": "2025-08-13T20:47:37.737191",
+      "model_used": "test-model"
+    },
+    "analyzed_at": "2025-08-13T20:47:37.737191",
+    "version": "1.0"
+  }
+}

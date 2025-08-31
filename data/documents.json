@@ -1,0 +1,100 @@
+{
+  "doc_a7caee9e": {
+    "id": "doc_a7caee9e",
+    "filename": "SampleContract-Shuttle.pdf",
+    "original_path": "uploads\\doc_a7caee9e_SampleContract-Shuttle.pdf",
+    "stored_path": "data\\documents\\doc_a7caee9e_SampleContract-Shuttle.pdf",
+    "mime_type": "application/pdf",
+    "uploaded_at": "2025-08-14T08:58:33.440492",
+    "file_size": 49647,
+    "status": "completed",
+    "status_message": "Document analysis completed successfully!",
+    "updated_at": "2025-08-14T09:03:47.847386",
+    "analyzed_at": "2025-08-14T09:03:45.962677",
+    "custom_name": "Shuttle Service Contract",
+    "theme": "corporate",
+    "font": "roboto",
+    "logo_path": null,
+    "customization": {
+      "name": "Shuttle Service Contract",
+      "theme": "corporate",
+      "font": "roboto",
+      "hasLogo": false
+    }
+  },
+  "doc_aacce682": {
+    "id": "doc_aacce682",
+    "filename": "EMPLOYMENT-AGREEMENT.pdf",
+    "original_path": "uploads\\doc_aacce682_EMPLOYMENT-AGREEMENT.pdf",
+    "stored_path": "data\\documents\\doc_aacce682_EMPLOYMENT-AGREEMENT.pdf",
+    "mime_type": "application/pdf",
+    "uploaded_at": "2025-08-14T16:07:00.962695",
+    "file_size": 147595,
+    "status": "completed",
+    "status_message": "Document analysis completed successfully!",
+    "updated_at": "2025-08-14T16:10:30.464256",
+    "analyzed_at": "2025-08-14T16:10:30.094902",
+    "custom_name": "Employment Agreement",
+    "theme": "professional",
+    "font": "inter",
+    "logo_path": null,
+    "customization": {
+      "name": "Employment Agreement",
+      "theme": "professional",
+      "font": "inter",
+      "hasLogo": false
+    }
+  },
+  "doc_8d3a9e14": {
+    "id": "doc_8d3a9e14",
+    "filename": "1655708276_rentalagreementsampleandallyouneedtoknow.pdf",
+    "original_path": "uploads\\doc_8d3a9e14_1655708276_rentalagreementsampleandallyouneedtoknow.pdf",
+    "stored_path": "data\\documents\\doc_8d3a9e14_1655708276_rentalagreementsampleandallyouneedtoknow.pdf",
+    "mime_type": "application/pdf",
+    "uploaded_at": "2025-08-14T17:19:33.562945",
+    "file_size": 43671,
+    "status": "completed",
+    "status_message": "Document analysis completed successfully!",
+    "updated_at": "2025-08-14T17:22:55.223426",
+    "analyzed_at": "2025-08-14T17:22:55.035435",
+    "custom_name": "Rental Agreement Sample",
+    "theme": "modern",
+    "font": "poppins",
+    "logo_path": null,
+    "customization": {
+      "name": "Rental Agreement Sample",
+      "theme": "modern",
+      "font": "poppins",
+      "hasLogo": false
+    }
+  },
+  "doc_317a90da": {
+    "id": "doc_317a90da",
+    "filename": "EMPLOYMENT-AGREEMENT",
+    "original_path": "uploads\\doc_317a90da_EMPLOYMENT-AGREEMENT.pdf",
+    "stored_path": "data\\documents\\doc_317a90da_EMPLOYMENT-AGREEMENT",
+    "mime_type": "application/pdf",
+    "uploaded_at": "2025-08-25T11:17:40.846723",
+    "file_size": 147595,
+    "status": "completed",
+    "custom_name": "EMPLOYMENT-AGREEMENT",
+    "theme": "default",
+    "font": "inter",
+    "logo_path": null,
+    "customization": {
+      "custom_name": "EMPLOYMENT-AGREEMENT",
+      "theme": "default",
+      "font": "inter",
+      "logo_path": null,
+      "customization": {
+        "name": "EMPLOYMENT-AGREEMENT",
+        "theme": "default",
+        "font": "inter",
+        "hasLogo": false
+      }
+    },
+    "status_message": "Document analysis completed successfully!",
+    "updated_at": "2025-08-25T11:22:44.515969",
+    "analyzed_at": "2025-08-25T11:22:42.203447"
+  }
+}
