@@ -109,7 +109,8 @@ README.md
 docs/
 documentation/
 
-# Docker files (keep only the one we're using)
+# Docker files (exclude all except the one we're using)
+Dockerfile.old
 Dockerfile.backup
 Dockerfile.minimal
 Dockerfile.optimized
@@ -149,8 +150,17 @@ requirements-dev.txt
 # Keep only minimal
 !requirements.minimal.txt
 
-# Exclude all Python files except essential ones
-*.py
+# Include only essential Python files
+backend.py
+production_backend.py
+railway_backend.py
+action_items_manager.py
+data_manager.py
+deep_analysis_manager.py
+summary_manager.py
+frontend_routes.py
+
+# Keep essential files
 !minimal_backend.py
 !config.py
 !prompts.py
