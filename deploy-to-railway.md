@@ -4,32 +4,44 @@
 1. Install Railway CLI: `npm install -g @railway/cli`
 2. Login to Railway: `railway login`
 
-## Deployment Steps
+## Quick Deployment (Recommended)
 
-### 1. Initialize Railway Project
+### Option 1: Use the automated script
+```bash
+# On Linux/Mac
+./build-and-deploy.sh
+
+# On Windows
+build-and-deploy.bat
+```
+
+### Option 2: Manual deployment
+
+#### 1. Initialize Railway Project
 ```bash
 railway init
 ```
 
-### 2. Set Environment Variables
-Set these environment variables in your Railway dashboard or via CLI:
-
+#### 2. Build frontend locally
 ```bash
-# Required environment variables
+npm install --legacy-peer-deps
+npm run build
+cp -r build static  # Linux/Mac
+# OR
+xcopy build static /e /i /h  # Windows
+```
+
+#### 3. Set Environment Variables
+```bash
 railway variables set GEMINI_API_KEY=your_actual_gemini_api_key_here
 railway variables set SECRET_KEY=your_secret_key_here
 railway variables set FLASK_ENV=production
 railway variables set PORT=8080
-
-# Optional environment variables
-railway variables set MAX_CONTENT_LENGTH=16777216
-railway variables set UPLOAD_FOLDER=uploads
-railway variables set PROCESSED_FOLDER=processed
 ```
 
-### 3. Deploy
+#### 4. Deploy with minimal Dockerfile
 ```bash
-railway up
+railway up --dockerfile Dockerfile.minimal
 ```
 
 ## Important Notes
