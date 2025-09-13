@@ -1,0 +1,79 @@
+# Multi-stage optimized Dockerfile for Railway deployment
+# Stage 1: Build React frontend (if needed)
+FROM node:18-alpine AS frontend-builder
+
+WORKDIR /app/frontend
+
+# Copy package files first for better caching
+COPY package*.json ./
+
+# Install only production dependencies
+RUN npm ci --only=production --no-audit --no-fund && \
+    npm cache clean --force
+
+# Copy source and build
+COPY src/ ./src/
+COPY public/ ./public/
+
+# Build for production
+RUN npm run build 2>/dev/null || echo "No build script found, skipping frontend build"
+
+# Stage 2: Python dependencies builder
+FROM python:3.11-alpine AS python-builder
+
+WORKDIR /app
+
+# Install build dependencies
+RUN apk add --no-cache --virtual .build-deps \
+    gcc \
+    musl-dev \
+    python3-dev \
+    && rm -rf /var/cache/apk/*
+
+# Copy and install Python dependencies
+COPY requirements.minimal.txt requirements.txt
+RUN pip install --no-cache-dir --user -r requirements.txt
+
+# Stage 3: Final production image
+FROM python:3.11-alpine
+
+WORKDIR /app
+
+# Install only runtime system dependencies
+RUN apk add --no-cache \
+    curl \
+    poppler-utils \
+    tesseract-ocr \
+    && rm -rf /var/cache/apk/* \
+    && adduser -D -s /bin/sh appuser
+
+# Copy Python packages from builder stage
+COPY --from=python-builder /root/.local /root/.local
+
+# Copy built frontend from builder stage (if exists)
+COPY --from=frontend-builder /app/frontend/build ./static 2>/dev/null || mkdir -p ./static
+
+# Copy only essential Python files
+COPY minimal_backend.py ./
+COPY prompts.py ./
+COPY config.py ./
+
+# Create necessary directories with proper permissions
+RUN mkdir -p uploads processed cache data && \
+    chown -R appuser:appuser /app
+
+# Switch to non-root user
+USER appuser
+
+# Set environment variables
+ENV FLASK_ENV=production \
+    PYTHONPATH=/app \
+    PORT=8080 \
+    PYTHONUNBUFFERED=1 \
+    PATH=/root/.local/bin:$PATH
+
+# Expose port
+EXPOSE 8080
+
+# Use exec form for better signal handling
+CMD ["python", "minimal_backend.py"]
