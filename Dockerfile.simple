@@ -1,18 +1,12 @@
-# Simplified Dockerfile for Railway deployment
+# Optimized Dockerfile for Railway deployment
 FROM python:3.11-slim
 
 # Set working directory
 WORKDIR /app
 
-# Install Node.js for building React frontend
-RUN apt-get update && apt-get install -y \
+# Install system dependencies in one layer
+RUN apt-get update && apt-get install -y --no-install-recommends \
     curl \
-    && curl -fsSL https://deb.nodesource.com/setup_18.x | bash - \
-    && apt-get install -y nodejs
-
-# Install system dependencies for Python packages
-RUN apt-get install -y --no-install-recommends \
-    build-essential \
     poppler-utils \
     tesseract-ocr \
     tesseract-ocr-eng \
@@ -21,24 +15,19 @@ RUN apt-get install -y --no-install-recommends \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
-# Copy and install Python dependencies
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
-
-# Copy frontend files and build
-COPY package*.json ./
-COPY src/ ./src/
-COPY public/ ./public/
-
-# Install frontend dependencies and build
-RUN npm install --legacy-peer-deps
-RUN npm run build
+# Copy and install minimal Python dependencies first (for better caching)
+COPY requirements.minimal.txt requirements.txt
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir -r requirements.txt
 
 # Copy backend files
 COPY *.py ./
 
 # Create necessary directories
-RUN mkdir -p uploads processed cache data
+RUN mkdir -p uploads processed cache data static
+
+# Copy any pre-built frontend assets (if available)
+COPY public/ ./static/ 2>/dev/null || echo "No public directory found, skipping..."
 
 # Set environment variables
 ENV FLASK_ENV=production
@@ -49,9 +38,9 @@ ENV PYTHONUNBUFFERED=1
 # Expose port
 EXPOSE 8080
 
-# Simple health check
-HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
+# Simplified health check
+HEALTHCHECK --interval=60s --timeout=30s --start-period=10s --retries=2 \
     CMD curl -f http://localhost:8080/healthz || exit 1
 
-# Run the application
-CMD ["python", "production_backend.py"]
+# Run with gunicorn for better production performance
+CMD ["gunicorn", "--bind", "0.0.0.0:8080", "--workers", "1", "--timeout", "120", "production_backend:app"]
