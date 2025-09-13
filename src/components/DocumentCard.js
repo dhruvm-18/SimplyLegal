@@ -120,7 +120,15 @@ const DocumentCard = ({ document, onClick, onDelete, onOpenCustomization }) => {
     professional: { primary: '#1F2937', secondary: '#374151', accent: '#6B7280' },
     modern: { primary: '#8B5CF6', secondary: '#7C3AED', accent: '#A78BFA' },
     corporate: { primary: '#059669', secondary: '#047857', accent: '#10B981' },
-    elegant: { primary: '#DC2626', secondary: '#B91C1C', accent: '#EF4444' }
+    elegant: { primary: '#DC2626', secondary: '#B91C1C', accent: '#EF4444' },
+    sunset: { primary: '#F97316', secondary: '#EA580C', accent: '#FB923C' },
+    ocean: { primary: '#06B6D4', secondary: '#0891B2', accent: '#22D3EE' },
+    forest: { primary: '#16A34A', secondary: '#15803D', accent: '#4ADE80' },
+    royal: { primary: '#7C3AED', secondary: '#6D28D9', accent: '#A78BFA' },
+    minimal: { primary: '#6B7280', secondary: '#4B5563', accent: '#9CA3AF' },
+    midnight: { primary: '#1E293B', secondary: '#0F172A', accent: '#475569' },
+    cherry: { primary: '#E11D48', secondary: '#BE185D', accent: '#F43F5E' },
+    emerald: { primary: '#10B981', secondary: '#059669', accent: '#34D399' }
   };
 
   const currentTheme = themeColors[theme] || themeColors.default;
@@ -237,7 +245,8 @@ const DocumentCard = ({ document, onClick, onDelete, onOpenCustomization }) => {
             className="view-document-btn"
             style={{ 
               backgroundColor: currentTheme.primary,
-              borderColor: currentTheme.primary 
+              borderColor: currentTheme.primary,
+              color: 'white'
             }}
           >
             <FiEye />

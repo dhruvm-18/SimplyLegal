@@ -104,6 +104,33 @@ const ThemeCustomizer = ({
       surface: '#F9FAFB',
       text: '#111827',
       border: '#E5E7EB'
+    },
+    midnight: {
+      primary: '#1E293B',
+      secondary: '#0F172A',
+      accent: '#475569',
+      background: '#F8FAFC',
+      surface: '#FFFFFF',
+      text: '#0F172A',
+      border: '#CBD5E1'
+    },
+    cherry: {
+      primary: '#E11D48',
+      secondary: '#BE185D',
+      accent: '#F43F5E',
+      background: '#FFF1F2',
+      surface: '#FFFFFF',
+      text: '#881337',
+      border: '#FECDD3'
+    },
+    emerald: {
+      primary: '#10B981',
+      secondary: '#059669',
+      accent: '#34D399',
+      background: '#ECFDF5',
+      surface: '#FFFFFF',
+      text: '#064E3B',
+      border: '#A7F3D0'
     }
   };
 

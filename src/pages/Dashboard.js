@@ -552,6 +552,14 @@ const Dashboard = () => {
                       <option value="modern">Modern</option>
                       <option value="corporate">Corporate</option>
                       <option value="elegant">Elegant</option>
+                      <option value="sunset">Sunset</option>
+                      <option value="ocean">Ocean</option>
+                      <option value="forest">Forest</option>
+                      <option value="royal">Royal</option>
+                      <option value="minimal">Minimal</option>
+                      <option value="midnight">Midnight</option>
+                      <option value="cherry">Cherry</option>
+                      <option value="emerald">Emerald</option>
                     </select>
                   </div>
                   
