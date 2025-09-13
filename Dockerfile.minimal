@@ -1,0 +1,35 @@
+# Minimal Dockerfile for Railway - Backend only approach
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Install minimal system dependencies
+RUN apt-get update && apt-get install -y \
+    curl \
+    poppler-utils \
+    tesseract-ocr \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copy and install Python dependencies
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy all Python files
+COPY *.py ./
+
+# Create necessary directories
+RUN mkdir -p uploads processed cache data static
+
+# Copy pre-built frontend (you'll need to build this locally first)
+# COPY build/ ./static/
+
+# Set environment variables
+ENV FLASK_ENV=production
+ENV PORT=8080
+ENV PYTHONUNBUFFERED=1
+
+# Expose port
+EXPOSE 8080
+
+# Simple startup
+CMD ["python", "backend.py"]

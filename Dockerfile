@@ -4,11 +4,14 @@ FROM node:18-alpine as frontend-builder
 
 WORKDIR /app/frontend
 
+# Install build dependencies for node-gyp
+RUN apk add --no-cache python3 make g++
+
 # Copy package files
 COPY package*.json ./
 
 # Install dependencies with legacy peer deps for compatibility
-RUN npm ci --legacy-peer-deps
+RUN npm ci --legacy-peer-deps --production=false
 
 # Copy frontend source code
 COPY src/ ./src/
@@ -23,11 +26,13 @@ FROM python:3.11-slim
 # Set working directory
 WORKDIR /app
 
-# Install system dependencies including curl for health checks
-RUN apt-get update && apt-get install -y \
+# Update package list and install system dependencies
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
     gcc \
     g++ \
     curl \
+    wget \
     poppler-utils \
     tesseract-ocr \
     tesseract-ocr-eng \
@@ -37,7 +42,12 @@ RUN apt-get update && apt-get install -y \
     libxext6 \
     libxrender-dev \
     libgomp1 \
-    && rm -rf /var/lib/apt/lists/*
+    libfontconfig1 \
+    libxss1 \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/* \
+    && rm -rf /tmp/* \
+    && rm -rf /var/tmp/*
 
 # Copy requirements and install Python dependencies
 COPY requirements.txt .
